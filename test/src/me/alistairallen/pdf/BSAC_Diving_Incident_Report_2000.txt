@@ -1,0 +1,3834 @@
+Published by The British Sub-Aqua Club in the interests of diving safety
+The British Sub-Aqua Club
+NDC Diving Incidents Report
+2000
+Compiled by
+Brian Cumming
+Diving Safety and Incidents Advisor
+
+` NDC Diving Incidents Report - 2000
+Introduction
+This booklet contains the year 2000 Diving Incidents Report, produced by The British Sub-Aqua Club  (BSAC) in
+the interest of promoting diving safety.  It is important to note that it contains details of UK diving incidents
+occurring to divers of all affiliations, plus incidents occurring worldwide involving BSAC members.
+Report Format
+The majority of statistical information contained within this report is also shown in graphical form.  Please note that all
+statistical information is produced from UK data only and does not include Overseas Incidents unless noted as ‘All
+Incidents’.
+The contents of this report are split into an overview of the year, and then the details of nine incident categories plus some
+historical analyses.  The various sections can be found as shown below:-
+i) Overview Page 1
+ii) Fatalities Page 5
+iii) Decompression Incidents Page  8
+iv) Injury / illness Page 18
+v) Boating & Surface Incidents Page 22
+vi) Ascent Problems Page 27
+vii) Technique Problems Page 31
+viii) Equipment Problems Page 33
+ix) Miscellaneous Incidents Page 35
+x) Overseas Incidents Page 36
+xi) Numerical & Statistical Analyses Page 40
+xii) List of Abbreviations Page 42
+Within each category the incidents are listed in the order of their occurrence, not necessarily that of Incident Reference.
+They are laid out in the following form:
+MONTH/YR OF INCIDENT INCIDENT REF.
+Brief Narrative of Incident....................................................................................
+........................................................................................................
+The nature of many diving incidents is such that there is usually more than one cause or effect.  Where this is the case
+the incident has been classified under the more appropriate cause or effect. For instance an incident involving a fast
+ascent, causing decompression illness, will be classified under 'Decompression Incidents'.
+Brian Cumming,
+BSAC Diving Incidents Advisor,
+November 2000
+Acknowledgements
+Data for this report are collected from several different sources.  I would like to extend my thanks and appreciation to the
+following for their assistance in its production and in ensuring its completeness:
+Reg Hill, Coastguard Sport Diving Liaison Officer
+Peter Bradley, Sea Safety Liaison Officer, Royal National Lifeboat Institution
+and, in particular, all of those divers and other sources who have taken the
+trouble to complete Incident Reports and share their learning experience with
+others.
+Finally, to Dr. Yvonne Couch for proof reading this report
+
+NDC Diving Incidents Report - 2000  
+©BS-AC - 2000 1
+Overview
+has seen a slight rise in the total number of
+incidents that have been reported.  In the 2000
+incident year (October 99 to September 00
+inclusive) 417 incidents have been recorded, compared with
+382 in 1999 and 431 in 1998.
+This year the BSAC reinstated its subscription to a press
+cutting service (which was suspended during the last incident
+year) and this will account for a small part of the increase over
+1999.
+Conversely a small reduction will have occurred due to the non-
+availability of data from the RNLI from the end of July 00
+onwards.  This occurred because the RNLI are in the process
+of updating their computer systems.  It is anticipated that the
+2001 report will see a return to normal.
+The distribution of these reports is shown in the following chart.
+As can be seen, 68% of these incidents have occurred in the
+summer period.  This is totally consistent with previous years,
+reflecting the increased number of dives that take place during
+the warmer weather.
+Monthly breakdown of all incidents - 2000
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Incidents by category
+The incident database categorises all incidents into one of nine
+major categories, and the following chart shows the distribution
+of the 2000 incidents into those categories.
+This chart reflects an important change from previous years.
+DCI incidents have overtaken surface and boating incidents.
+The number of incidents of DCI has risen from 86 in 1999 to
+125 in 2000, whilst the number of surface and boating incidents
+has fallen from 114 in 1999 to 99 in 2000.  The number of
+incidents reported is relatively small and some variability from
+year to year must be expected; however such a rise in cases of
+DCI is of concern.  DCI is covered later in this summary report
+and the major causal factors are identified.
+The reduction in the number of surface and boating incidents is
+almost all due to a 20% reduction in the number of cases of
+lost divers.  These incidents typically involve divers who, upon
+surfacing at the end of their dive, find themselves out of contact
+with their boat, and very often a long and expensive search
+takes place, almost always successfully.  This subject has
+been highlighted in many previous reports and presentations on
+diving statistics, and it is hoped that this is a real trend
+indicating that divers and dive marshals are taking more care
+with this issue.
+Categorisation of the year’s incidents
+0 20 40 60 80 100 120 140
+Overseas
+Miscellaneous
+Technique
+Fatalities
+Equipment
+Ascents
+Injury / Illness
+Boat / surface
+DCI
+This chart indicates 16 incidents involving fatalities, but one of
+these was a double fatality.
+Fatalities
+The report includes 17 UK fatalities of which 6 involved BSAC
+members.  17 Fatalities is in line with the average number of
+UK fatalities that have been experienced in the last five years
+(17.8) but it is higher than the average of the last ten years
+(15.3), indicating a continuation of the trend of increasing
+deaths that was identified last year.
+Fatalities of BSAC membership are just below the averages of
+the past five and ten years.
+The following chart shows the number of deaths per 10,000
+BSAC members for each of the last 22 years and a clear
+downward trend can be seen.
+The trend line indicates a near halving of the fatality rate during
+this period.  During this time diving has certainly become more
+adventurous with the advent of fast small boats and specialist
+hardboats bringing easy access to much more challenging
+sites.  Given this background, one might have expected a
+significant increase in the number of fatal incidents and yet we
+see an apparent doubling of safety in this period.
+Each fatality is a tragedy and we must not become complacent
+but we should recognise what has been achieved.  A number of
+factors are likely to have been at work here but the quality of
+the BSAC training programme and the high standards of all of
+our instructors clearly lays at the heart of this welcome trend.
+2000
+BSAC Fatalities
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+3.50
+1975 1980 1985 1990 1995 2000
+Year
+D
+ea
+th
+s 
+/ 1
+0 
+K
+ m
+em
+be
+rs
+
+` NDC Diving Incidents Report - 2000
+2 ©BS-AC - 2000
+The causal factors behind the UK fatalities can be summarised
+as follows:-
+· Two cases involved people who experienced serious but
+unforeseeable medical problems whilst in or under the
+water.
+· Four cases involved deep dives.
+In three of these cases divers may have accidentally
+gone to, or have been swept to, depths deeper than
+planned.
+The fourth case involved a diver who was using a
+rebreather and who was returning from a dive to 82m
+when he got into difficulties.  This diver was not
+recovered and the cause of the problem is not known.
+· A second case of a fatality of a diver using a rebreather
+occurred when the diver surfaced unconscious from a
+wreck dive.  Again the exact cause is not known.
+· One case involved a diver who was diving solo with a
+single person attending in a boat.  This diver’s body was
+eventually recovered from the seabed at a depth of 6m.
+· One case involved a diver who had become tangled in
+some ropes at the surface during a shore dive.  The
+exact cause of the problem is not known.
+· Two cases involved air supply problems.
+One diver ran out of air and was lost during an attempted
+ascent using the other divers alternative air source.
+In the second case a diver experienced regulator
+problems and made a rapid ascent to the surface where
+he was found unconscious.
+This leaves six remaining cases where there is simply
+insufficient information to draw any conclusions with respect to
+the causes.
+· Two involved divers who became unconscious whilst
+underwater and, although they were recovered at the
+time, they did not survive.
+· Four involved divers who were lost underwater.  The body
+of one was recovered 4 weeks later and three are still
+missing at the time of writing.
+In many of the above cases it is clear that accepted safe diving
+practices were not being followed.
+Incident depths
+The following chart shows the maximum depth of the dive
+during which the incident took place, summarised into depth
+range groupings.
+Maximum depth of dive involving an incident
+0 20 40 60 80 100 120 140 160
+>60m
+51-60m
+41-50m
+31-40m
+21-30m
+11-20m
+1-10m
+Surf.
+Unknown
+The pattern is very similar to that normally seen and reflects the
+frequency of diving in these depth ranges.
+There is a continuation of the trend identified last year of dives
+to over 50m.  In 1998 6 incidents involved dives to over 50m, in
+1999 the number was 12 and this year it is 16.
+Three of these sixteen incidents at depths of over 50m resulted
+in fatalities; this is a significantly higher fatality to incident ratio
+than is seen in the shallower depth ranges.  The potential for
+problems increases significantly as diving depth increases.
+The BSAC advises that no dive should be deeper than 50m,
+and that dives to 50m should only be conducted by divers who
+are appropriately trained and qualified.
+The recommended limit for divers trained to Sports Diver
+standard is 35m and then only when they have received
+appropriate training for diving at this depth.
+The next chart shows the depth at which the incident started.
+Inevitably the data is biased towards the shallower depths since
+many incidents happen during the ascent or at the surface.
+Critical among these are the DCI cases where almost always
+the casualty is out of the water before any problems are noted.
+This partially explains the large occurrence of ‘surface’ cases
+as this includes divers with DCI who have left the water.
+Depth at which an incident started
+0 20 40 60 80 100 120 140 160
+>60m
+51-60m
+41-50m
+31-40m
+21-30m
+11-20m
+1-10m
+Surf.
+Unknown
+Other surface incidents involve boats and boating incidents.
+2000 has been a typical year for boating problems.  53
+incidents involved engine failure, and 10 cases involved
+problems with boats themselves.
+As reported earlier, the numbers of divers becoming separated
+from their boats has reduced from 51 instances in 1999 to 40
+reported in this incident year.
+Inadequate maintenance is certain to be the cause of many of
+the engine problems.
+Engine failure, with divers underwater, often results in lost
+divers since the boat is no longer able to recover them.  These
+divers are then left floating at the surface until discovered.  The
+search operation is often very extensive with lifeboats, other
+craft and helicopters deployed to find the missing divers.
+As in previous years, the benefits of effective surface detection
+aids are highlighted, especially in the Coastguard reports.
+Diver Qualifications
+The next two charts show the qualification of those BSAC
+members who were involved in reported incidents.
+Qualification of the divers involved in incidents
+
+NDC Diving Incidents Report - 2000  
+©BS-AC - 2000 3
+0 10 20 30 40 50
+1st Class
+Advanced
+Dive Leader
+Sports Diver
+Club/Ocean
+Novice
+Snorkel
+It is important to note that these divers were involved in the
+incident but this does not necessarily mean that they suffered
+the effects of it.  Some were involved as rescuers or in some
+other indirect way.
+Qualification of instructors involved in incidents
+0 10 20
+National
+Advanced
+Open Water
+Club
+Assistant Club
+Snorkel
+Unknown
+An analysis of incident by diver qualification shows that no
+grade of diver, from novice to instructor, is immune to
+problems.  It is all too easy to make the assumption that only
+inexperienced divers get into problems, but the chart shows
+that this is not so.
+Although the data suggest that divers at the level of Sports
+Diver are the most prone to problems one must be careful in
+the interpretation of these data.  The picture is clearly distorted
+by the numbers of members that we have at each of these
+grades.  It is very probable that the largest single group of
+members are Sports Divers, hence the high incidence of
+problems.
+The distribution of these qualification data conforms to the
+pattern seen in previous years.
+Divers’ use of the Emergency Services
+Divers’ use of the rescue services shows a monthly distribution
+aligned to the distribution of all incidents, and is clearly
+correlated with the number of dives that are taking place.  Our
+demands upon the Coastguard service were typical for the
+year, as were our calls upon the services of the RNLI.
+UK Incidents involving the Coastguard agency
+ - Monthly breakdown
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Incidents invovling HM Coastguard: 225
+Divers’ use of RNLI facilities by month
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Incidents involving Lifeboats: 110
+Also very similar to last year has been divers’ need for
+assistance by helicopter.  There were two main reasons for
+this; firstly the transportation of divers with DCI to
+recompression facilities and, secondly, for the location of lost
+divers.
+Divers’ use of SAR helicopters by month
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Incidents involving helicopters : 90
+Decompression Incidents
+The BSAC database contains 125 reports of DCI incidents,
+some of which involve more than one casualty.  When these
+multiple cases are counted the result is 134 incidents of DCI.
+
+` NDC Diving Incidents Report - 2000
+4 ©BS-AC - 2000
+In 1999 there were 86 cases of DCI recorded and in 1998 the
+number was 120; sadly, the improvement that was indicated
+last year was not maintained.
+An analysis of the causal factors associated with these cases
+indicates the following:-
+47 involve diving to greater than 30m
+46 involve rapid ascents
+30 involve missed decompression stops
+24 involve repeat diving
+Some cases involve more than one of these causes.
+The report includes several cases of ‘Diver illness’ reported by
+the RNLI and whilst the nature of this illness is not recorded it is
+very likely that these are further cases of DCI.
+Poor buoyancy control is at the heart of the majority of these
+cases.  Divers are failing to correctly control their ascent,
+especially in the critical last 10m zone and ending up with rapid
+ascents and/or missed decompression stops.  Very often the
+diver is using a drysuit and is unable to prevent a buoyant
+ascent.
+Better training is clearly indicated and Diving Officers, Training
+Officers and Instructors should work to ensure that the skills of
+their trainees are particularly well practised in this area.
+Several of the incidents involve divers using unfamiliar
+equipment and ending up with buoyancy problems.  It is
+important to familiarise oneself with new equipment in a safe
+environment prior to using it in more challenging
+circumstances.
+Whenever possible it is safest to ascend from the dive using a
+shotline, this will provide the diver with the opportunity to stop
+and correct a buoyancy problem before an uncontrolled  ascent
+and accompanying pressure reduction takes place; once a
+rapid ascent is underway it is very hard to stop.
+In Conclusion
+The 2000 incident year has not highlighted any major new
+concerns.  Most of the incidents reported within this document
+could have been avoided had those involved followed a few
+basic principles of safe diving practice.  Those that I would
+emphasise, as I have done before, are:-
+· Dive within your limits.
+· Build your experience gradually.
+· Practice the basic skills until you are faultless, and then
+keep in practice.
+· Plan and equip yourself correctly for the dive.
+· Maintain constant vigilance whilst involved in diving
+activities and be ready to act quickly as soon as things
+start to go astray.
+· Ensure that equipment is fully and correctly serviced
+(both diving and boating).
+Please read the detailed reports in this booklet carefully and
+use them to learn from others’ mistakes. They have had the
+courage and generosity to record their experiences for
+publication, the least that we can do is to use this information to
+avoid similar problems.
+Finally, if you must have an incident please report it on our
+Incident Report form, available free from BSAC HQ or via the
+BSAC internet website.
+As always, your anonymity is assured – great care is taken to
+preserve the confidentiality of any personal information
+recorded in BSAC Incident Reports.
+
+NDC Diving Incidents Report - 2000  
+ã BSAC - 2000 5
+Fatalities
+October 1999 00/010
+Two divers entered the water to start their dive.  They
+descended to 6m where one felt that he was under-weighted.
+They returned to the boat for extra weights.  They descended
+again but he still felt light and they decided to abandon the
+dive.  At the surface he was seen to be unconscious by his
+buddy who towed him to some nearby rocks.  Here she
+removed his kit and pulled him onto the rocks.  Some time
+passed before she was able to attract the attention of people on
+the boat.  The boat was collecting other divers.  Once the
+situation was realized the boat approached the rocks and
+another diver swam to assist.  He discovered that the
+unconscious diver had no pulse and commenced CPR.  The
+Coastguard was alerted and a helicopter and lifeboat went to
+assist.  The unconscious diver was recovered by helicopter and
+taken to hospital.  The others were recovered by the lifeboat
+and all returned to shore.  The unconscious diver was
+pronounced to be dead on arrival at hospital.
+UK Fatalities - Monthly breakdown
+from October 1999 to September 2000  incl.
+0
+1
+2
+3
+4
+October 1999 00/015
+Two divers completed a dive to a maximum depth of 14m for a
+duration of 28 mins, which included a stop of 1 min at 6m and a
+further 30 secs at 3m.  At the surface they exchanged OK
+signals and finned away from the shotline to be recovered into
+the boat.  A line was thrown from the boat to the divers to tow
+them away from some rocks, prior to recovery.  During this tow,
+one of the divers seemed to get into difficulties and her buddy
+took hold of her and the line.  The distressed diver was unable
+to climb the ladder to get back into the boat and swam towards
+a nearby breakwater, her buddy went with her.  At the
+breakwater the distressed diver became unresponsive, her
+buddy gave the distress signal and inflated her BCD.  An RHIB
+came to their assistance and the casualty was recovered into
+the boat.  She was given oxygen and CPR.  A Coastguard
+helicopter arrived and the casualty was taken to hospital.  She
+was subsequently taken to a recompression facility for
+treatment and then returned to hospital.  The casualty was kept
+on a life support machine for a number of days, but did not
+recover.  It was subsequently revealed that this diver had
+suffered from a stroke.
+November 1999 00/028
+Two trainees and an instructor were at 27m when they were
+caught in a powerful down current.  The instructor attempted to
+fin himself and the trainees upwards but the current carried
+them down to 46m.  The instructor inflated the BCD of one of
+the trainees, but the other was lost.  The instructor and one
+trainee managed to return safely to the surface.  Other divers
+entered the water to search, they found a fin, then a note pad
+and finally the missing diver's body, at a depth of 55m.  They
+brought her to the surface and a lifeboat and helicopter
+assisted.  The diver was brought ashore but failed to recover.
+March 2000 00/066
+Two divers were conducting a shore dive.  They surfaced 180m
+offshore from a depth of 8m.  They were seen to be in distress,
+and are believed to have been tangled in some buoys.
+Members of the public alerted the Coastguard and a lifeboat
+was launched.  A small dinghy was launched to assist but this
+capsized.  One of the divers brought the other to the shore
+where resuscitation attempts were made.  The capsized dinghy
+and its owner were recovered by the lifeboat.  Both divers were
+taken to hospital but one was pronounced dead on arrival.
+May 2000 00/091
+Two divers conducted a dive to a maximum depth of around
+16m in calm conditions with very good underwater visibility.
+They dived from an RHIB, on a wreck, close to a rocky
+coastline.  The wreck was broken up with no penetration
+opportunities.  35 mins into the dive they exchanged OK signals
+and shortly afterwards became separated.  One of the pair
+searched around the wreckage for his buddy and then found
+himself in a narrow gully being pushed towards the cliffs by
+surging water.  He was at a depth of 5m and surfaced.  He was
+unable to re-descend because of buoyancy and low air supply.
+Another diver from the group came to assist and conducted a 7
+mins search of the area.  The RHIB was used to search the
+area and the Coastguard was notified.  Two other members of
+the group re-kitted and entered the water to search.  A
+helicopter also joined the search and its diver conducted a
+search of the wreck.  A lifeboat and other craft searched the
+sea and a Coastguard team searched the shore.  Later in the
+day two divers conducted an extensive circular sweep search of
+the wreck.  Further searches were conducted the following day,
+but the missing diver was not found.  The diver's body was
+recovered 4 weeks later.
+May 2000 00/102
+Two divers conducted a dive to a maximum depth of 35m.
+During their return to the surface, at a depth of 20m, one of the
+pair signaled that she had only 80 bar of air remaining.  They
+continued towards the surface up an incline.  Shortly afterwards
+the other diver indicated that he was out of air and started to
+use the buddy's alternative air source.  They started an ascent
+directly to the surface.  At a depth of 10m the diver who was out
+of air moved away from his buddy and 'drifted out of view'.  The
+buddy continued to the surface and raised the alarm.  Dive
+duration 29 mins.  The lost diver was recovered from 20m, 15
+mins later, but he failed to respond to resuscitation attempts.
+May 2000 00/108
+Two divers were conducting a wreck dive with a maximum
+depth of 30m.  15 mins into the dive one of the pair discovered
+his buddy unconscious on the wreck at a depth of 20m.  He
+released the casualty's weightbelt and brought him to the
+surface.  At the surface both divers were recovered into their
+
+NDC Diving Incidents Report - 1999
+6 ©BS-AC - 2000
+boat and resuscitation techniques were applied to the casualty.
+The Coastguard was alerted and the casualty was taken ashore
+in a fast boat.  Resuscitation was continued, but he was
+pronounced dead by a doctor who met the group when it
+arrived at the shore.  It is reported that initial post mortem
+results indicated that he had suffered something akin to an
+epileptic fit whilst underwater.
+June 2000 00/132
+The Coastguard was alerted when a diver was 15 mins overdue
+from a planned 50 min dive.  A helicopter and lifeboats were
+launched to search.  Divers from other dive boats organized a
+search of the seabed.  The lost diver was found over 60 mins
+later in a depth of 6m.  He was brought to the surface and
+resuscitation attempted.  The diver was air lifted to hospital but
+failed to recover.  The diver had been diving alone with one
+person waiting in the boat.  When found the diver's equipment
+was separated from him on the seabed.
+June 2000 00/134
+A diver, using a closed circuit rebreather, surfaced unconscious
+from a wreck dive.  The dive boat broadcast a 'Mayday'.  The
+casualty was airlifted to hospital by Coastguard helicopter.  The
+diver was certified dead at the hospital.   (Coastguard & RNLI
+report)
+June 2000 00/140
+A group of eight divers in two boats were diving on a wreck in
+48m.  Two pairs were in the water when a third pair entered
+from a smaller boat tied astern of the main boat.  The first pair
+returned and the fourth pair was getting ready to dive when one
+of the third pair resurfaced 9m away from the boat and shouted
+that his buddy had a problem.  This diver was recovered into
+the small boat and reported that his buddy was unconscious at
+the bottom of the rope that was tying them to the wreck.  One
+of the fourth pair went down to the wreck and conducted a
+search for the missing diver but returned after 9 mins without
+having found him.  The Coastguard was alerted and the other
+diver was placed on oxygen as he had made a fast ascent.  A
+helicopter and lifeboat undertook a search but without success.
+Police and other divers searched the wreck over subsequent
+days but the missing diver was not found.
+July 2000 00/158
+A group of five divers were diving on a wreck at a depth of 30m.
+Underwater visibility was low.  7 mins into the dive one of the
+group indicated that he wished to surface.  The group
+ascended to the surface but one of the party was found to be
+missing.  The Coastguard was alerted and a helicopter and
+lifeboat were launched to assist.  Extensive underwater and
+surface searches failed to locate the missing diver.
+July 2000 00/165
+A diver was diving in a lake 200m offshore at a depth of 30m.
+He is believed to have had a problem with his regulator and,
+despite his buddy's attempts to assist, he made a rapid ascent
+to the surface.  The buddy made a normal ascent, which
+included decompression stops.  The diver who had made the
+rapid ascent was found face down at the surface.  He was
+recovered to the shore and the emergency services were
+called.  The diver was taken to hospital but pronounced dead
+on arrival.
+August 2000 00/178
+Two divers were conducting a wreck dive at a depth of 43m.
+One of the pair became entangled in some ropes and the
+second diver cut him free.  The diver who had been tangled
+then indicated that they should ascend.  They started a normal
+ascent but then the diver who had signaled the ascent began to
+fin hard for the surface, with his buddy struggling to keep up.
+At 20m this diver stopped finning and sank quickly back down
+to the seabed with his arms flailing.  The buddy followed him
+back down and discovered him lying on the seabed with his
+regulator out of his mouth and his mask half off.  He tried to
+place a regulator into the casualty's mouth.  Using a controlled
+buoyant lift the buddy lifted the casualty towards the surface.
+By this time his computer showed 17 mins decompression.  At
+15m he deployed a delayed SMB and put more air into the
+casualty's SMB, sending him to the surface.  The buddy then
+ascended to 6m and completed a 15 min decompression stop.
+The casualty was recovered into the boat which then took him
+directly to harbour.  A nearby boat was contacted by radio to
+collect the remaining divers.  The casualty failed to recover.  It
+is believed that the cause of death was drowning.
+BSAC Fatalities against membership 1982-2000
+(UK data only)
+0
+10
+20
+30
+40
+50
+60
+BSAC Fatalities Membership ('000)
+August 2000 00/179
+Two divers had completed a wreck dive to a maximum depth of
+82m using rebreathers.  They were completing their
+decompression stops at 6m when one of the pair suddenly spat
+out his mouthpiece and made a rush towards the surface.  His
+buddy lost sight of him at 3m due to poor underwater visibility
+near the surface.  The buddy completed his stops and
+surfaced.  It was then discovered that the other diver was
+missing.  An extensive search was made involving two
+helicopters, two lifeboats, and other craft.  The diver was not
+found.
+August 2000 00/214
+Two divers were participating in a week long diving expedition.
+On the first day they conducted two successful dives to a
+maximum depth of 25m.  On the second day a dive to a
+submerged reef was planned.  The top of the reef was
+approximately 25m deep and it went down to over 60m.  A
+shotline was deployed on the top of the reef.  The shotline had
+a small weight running through a snap hook at the top end to
+tension it.  The first pair dived and found the shot at a depth of
+26m and little current.  The second pair entered the water and
+dived a distance from the shotline.    The third pair entered the
+water, one swam underwater to the line and the other drifted
+onto it with the current.  The shot buoy was seen to 'dip' in the
+water and those on the boat believe that the weight had been
+pulled off of the reef.  The boat party shouted to them to abort
+
+NDC Diving Incidents Report - 2000  
+ã BSAC - 2000 7
+the dive but were not heard.  Both divers and the shot buoy left
+the surface together.  The shot buoy did not reappear.  The
+delayed SMB of the first pair appeared.  Then a second
+delayed SMB appeared, this turned out to be the second pair
+who had found that they were off of the reef and aborted their
+dive.  The boat maneuvered towards the second buoy and on
+the way one of the divers from the third pair was spotted,
+motionless, at the surface.  This diver had his mask in place,
+but his regulator was out of his mouth.  He was face up, but his
+face was underwater.  Another diver entered the water from the
+boat and started to give AV to the casualty.  A MAYDAY call
+was made.  The casualty's BCD and drysuit were inflated but
+he was very heavy in the water and the rescuing diver had
+difficulty staying at the surface.  Another diver reached from the
+boat and attempted to further inflate the casualty's BCD but the
+air vented from the overpressure valve, indicating that it was
+already full.  The BCD and cylinder was removed from the diver
+and the rescuing diver took hold of it.  It started to drag him
+under water and he released it, it then sank.  This BCD had an
+integrated weight system.  The casualty also wore a separate
+weightbelt.  The casualty was recovered onto the boat and
+resuscitation was continued.  No pulse could be found and
+oxygen assisted AV together with CPR was carried out.  The
+diver's computer indicated a maximum depth of 62m, a dive
+duration of 9 mins and a fast ascent warning.  40 mins after the
+recovery of the casualty a helicopter arrived and a heart
+monitor was used on the casualty.  An inshore lifeboat arrived
+with a doctor.  At this point the casualty was pronounced dead.
+An extensive search was begun for the other diver of this pair.
+The search was continued for many days and included
+helicopters, lifeboats, other craft, divers and remote controlled
+underwater vehicles.  No trace of the missing diver was found.
+September 2000 00/242
+A group of divers were diving on a wreck with depths ranging
+from 38 to 48m.  At the end of the dive each of the divers
+deployed his/her own delayed SMB.  They started their ascent.
+One of the group was seen by his buddy switching to a
+decompression cylinder, containing nitrox 50, at their first stop
+at 12m.  The buddy continued to his own first stop at 6m at
+which point he was unable to see the diver at 12m due to water
+clarity.  The diver who had been at 12m failed to return to the
+surface.  A search involving a helicopter, three lifeboats and
+other craft continued for 2 days.  The missing diver was not
+found.
+
+NDC Diving Incidents Report - 2000
+8 ©BS-AC - 2000
+Decompression Incidents
+October 1999 00/256
+A diver made a rapid ascent due to a faulty BCD inlet valve.
+Her dive profile was 32.7m for 20 mins. She missed 18 mins of
+stops. Type 2 DCI was diagnosed and she was airlifted to
+DDRC for treatment.  (Coastguard report).
+October 1999 00/258
+A diver surfaced sick and shaking after missing a stop following
+an 18-minute dive to 42m. He was airlifted by Coastguard
+helicopter to a hyperbaric unit for treatment.  (Coastguard
+report).
+October 1999 00/012
+Two divers descended to a wreck in a depth of 43m.  One of
+the divers experienced a buoyancy problem and her buddy tried
+to pull her down to the wreck.  They came off of the wreck and
+ended up on the seabed.  The buddy deployed a delayed SMB
+and they started to ascend.  They lost buoyancy control during
+the ascent and both divers rose to the surface.  The computer
+of one of the divers indicated missed stops at 15m.  One diver
+complained of 'pins and needles' in his legs and he was placed
+on oxygen.  After a further 25 mins the party arrived back at the
+shore and the diver reported that his 'pins and needles' had
+now 'totally diminished'.  He declined to seek recompression
+advice.  The other diver had no symptoms.  Later their
+condition deteriorated and they both received recompression
+treatment.  The diver who had had 'pins and needles' required
+five recompression sessions and was left with numbness in a
+toe  and a finger and overall stiffness.
+October 1999 00/260
+A diver became separated from his 2 buddies during a 45-
+metre dive for 36 mins.He surfaced missing all stops. Given O2
+on dive boat and helicopter evacuation was arranged.
+Meanwhile, 2 buddies surfaced and all 3 were taken to a
+hyperbaric unit by helicopter. En-route one buddy suffered Type
+1 DCI symptoms.  (Coastguard report).
+October 1999 00/259
+A diver and buddy dived to 34m for 28 mins. One diver had
+buoyancy problems whilst making a 12m stop, she made a
+rapid ascent. Shortly afterwards she complained of shoulder
+pain. She was later admitted to a hyperbaric unit for treatment.
+This diver claimed to be PADI trained, but because PADI do
+not train for decompression diving, she was therefore not
+trained!  (Coastguard report).
+October 1999 00/007
+A diver completed a series of ascents and descents as part of
+a training session.  The following morning he noticed a pain in
+his left arm.  He was referred to a recompression facility where
+he received treatment for a type 1 DCI.
+October 1999 00/262
+A 70-metre dive in a quarry and missed stops resulted in a
+diver contracting decompression sickness. The diver and his
+ buddy were airlifted to a hyperbaric unit.  (Coastguard report).
+October 1999 00/023
+Two pairs of divers planned a dive to 50m.  Once they had
+reached the bottom they started to explore a wreck.  At this
+point the drysuit inflation hose of one of the divers became
+disconnected from his suit and began to free flow.  He was
+unable to reconnect it and could not prevent the air loss.  His
+buddy was also unable to resolve the problem.  They made a
+fast ascent, disorientated by the mass of bubbles in the water.
+During the ascent they became separated and the diver with
+the free flow rose rapidly to the surface.  His buddy made a
+more controlled ascent but elected to miss several minutes of
+decompression stops so that he could assist at the surface.  At
+the surface their cover boat had to take action to avoid the
+diver being run down by another boat.  The diver with the free
+flow was recovered into his boat and placed on oxygen.  The
+diver was transferred onto a hardboat and the Coastguard
+alerted.  The diver started to experience paralysis of his legs.
+A lifeboat was launched and the hardboat sailed to meet it.
+The diver was transferred onto the lifeboat and taken to a
+recompression facility for treatment.  A type 2 DCI was
+diagnosed.  This diver required subsequent recompression
+treatment.  The buddy experienced no symptoms and was not
+recompressed.
+October 1999 00/035
+Two divers conducted a dive to 6m for 30 mins.  2 hours later
+they dived again to 19m for 30 mins.  The following day one of
+the pair felt a tingling at the back of one of his knees.  He
+sought medical advice and undertook a 5 hour recompression
+treatment.  After this treatment the symptoms became worse.
+He experienced a tingling in his arms and legs, lethargy, thirst
+at night and physical weakness.  Eight weeks later he still had
+these symptoms but to a lesser extent.
+Decompression incidents by month
+0
+5
+10
+15
+20
+25
+November 1999 00/049
+A diver made a dive to a wreck at a depth of 38m.  Visibility
+was poor and she became separated from her buddy.  She
+suffered nitrogen narcosis and made a rapid ascent to the
+surface, missing approximately 7 mins of decompression stops.
+At the surface she was recovered into the boat.  Her buddy
+surfaced 10 mins later having spent time trying to find her prior
+to ascending.  The diver who had missed stops then developed
+pains in her left elbow and a tingling sensation in her left hand.
+She was placed on oxygen and taken ashore.  Once ashore,
+she was taken to a recompression facility where she received
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 9
+treatment.
+January 2000 00/050
+A diver completed a dive to 26m for 18 mins.  During the dive
+he had been under weighted and had collected stones from the
+seabed to increase his weight.  At 6m, during the ascent, he
+lost control of his ascent rate and rose rapidly to the surface.  3
+mins after surfacing this diver noticed a loss of sensation in his
+right hand.  Once ashore an ambulance was called and a
+recompression facility alerted to the incident.  Whilst waiting for
+the ambulance the diver was given nitrox 40.  The diver's
+symptoms worsened for a while, with loss of sensation in his
+left leg, dizziness and some confusion, and then improved with
+feeling returning to arm and leg.  The diver received four
+recompression treatments over the following two days.  A full
+recovery was reported.
+January 2000 00/269
+Two divers became entangled in rope at 54m; after freeing
+themselves, they ascended, missing stops. Both showed signs
+of DCI on the boat and were airlifted by military helicopter to a
+hyperbaric unit.  (Coastguard report).
+February 2000 00/090
+An instructor and two trainees made a dive to 18m. After 8
+mins the instructor's compass malfunctioned and they surfaced
+to regain their bearings.  They re-descended and continued
+with the dive.  15 mins later one of the trainees stopped to clear
+her mask and lost contact with the other two.  She developed
+cramp in her leg.  Visibility was very low and after looking
+around her she made an ascent to the surface.  At the surface
+she regained contact with the other two and they left the water.
+2 hours 15 mins later they dived again to a maximum depth of
+18m for a duration of 30 mins.  Later, on the journey home the
+diver who had become separated felt cold and had a dull ache
+in the center of her chest.  She then began to develop 'pins and
+needles' in her fingers.  At first this was considered to have
+been the effects of cold.  Her journey took her to altitude and
+the feeling extended to the palms of her hands.  The
+emergency services were contacted and they were met by an
+ambulance.  She was placed on oxygen and taken to hospital.
+From here she was transferred to a recompression facility.
+During this time the 'pins and needles' progressed into her feet
+and ankles.  She was given three sessions of recompression.
+The other divers experienced no symptoms.
+February 2000 00/092
+A diver conducted a dive to 58m.  During the dive he planned to
+swim through a 12m long tunnel.  In the tunnel the visibility was
+2m and he became disorientated and started to panic.  He
+managed to get out of the tunnel and regain control.  15 mins of
+decompression stops were conducted at 3m and the total dive
+duration was 47 mins.  3 hours later he dived again to 35m for
+32 mins as a no stop dive.  7 hours later he complained of a
+shoulder pain.  2 hours later he was found to have rashes and
+raised blotches on his back.  He received 4 hours 30 mins
+recompression treatment.  It was uncertain if this was a DCI or
+a strain.
+February 2000 00/272
+A diver surfaced with DCI following a 27m dive for 20 mins,
+previous dives to 32m and 27m. He was transferred ashore
+ by lifeboat for onward passage to a hyperbaric unit.
+(Coastguard & RNLI report)
+March 2000 00/071
+After a dive to a maximum depth of 30m for a duration of 32
+mins, two divers started their ascent.  One of the pair used his
+delayed SMB to send the anchor to the surface and the other
+deployed his SMB to mark their position.  During the ascent the
+diver with the SMB experienced problems dumping air from his
+drysuit through the dump valve, and lost control of his
+buoyancy.  His buddy tried to slow his ascent but he was
+carried to the surface missing 14 mins of decompression stops.
+The Coastguard was alerted and the diver flown to a
+recompression facility for treatment.
+March 2000 00/273
+Coastguard received a report of a diver on the shoreline with a
+cut head and DCI. He was taken to a hyperbaric unit by
+ambulance. (Coastguard report)
+March 2000 00/274
+A diver made two 50m and one 25m dives for 'horrendous'
+times. He suffered DCI (unable to walk). Transferred to a
+hyperbaric unit.  (Coastguard report)
+March 2000 00/278
+Two divers made a rapid ascent from 31m whilst buddy
+breathing (one ran out of air). One diver complained of
+tightness of the chest and pins and needles. Both were airlifted
+to a hyperbaric unit.  (Coastguard report).
+March 2000 00/279
+A fast ascent from 12m resulted in 'pins and needles' in the
+hands. This diver was taken to a hyperbaric unit by ambulance.
+(Coastguard report).
+March 2000 00/081
+A diver completed a dive to 35m for a duration of 27 mins
+which included 15 mins at 6m.  2 hours 30 mins later he was 6
+mins into a second dive, at a depth of 6m, when he indicated a
+problem to his buddy.  The dive was aborted and, at the
+surface, he felt unwell and was very cold and shaky.  His
+condition deteriorated and he was taken to hospital.  He
+developed paralysis in the lower half of his body and was taken
+to a recompression facility.  He received a total of four
+recompression sessions and the symptoms were fully resolved.
+March 2000 00/281
+A fast ascent from 50m due to an over inflated drysuit resulted
+in 12 minutes of missed stops. The diver was airlifted to a
+hyperbaric unit for treatment.  (Coastguard report).
+April 2000 00/282
+A 5 man dive team had been practicing decompression stops.
+One of the divers surfaced severely fatigued and vague. He
+was airlifted to a hyperbaric unit for treatment. So much for
+practice!  (Coastguard report).
+April 2000 00/285
+A diver surfaced with pains in his arms. He was airlifted to a
+hyperbaric unit.  (Coastguard report).
+April 2000 00/284
+Following a dive to 37m for 21 mins, one of a buddy pair
+surfaced with pins and needles. Both were airlifted to a
+hyperbaric unit. Only 10 bar of air from a 12 l cylinder was
+noted on the surface.  (Coastguard report).
+April 2000 00/287
+
+NDC Diving Incidents Report - 2000
+10 ©BS-AC - 2000
+A diver made two dives, the first to 35m for 34 mins and the
+second to 24m for 38 mins, with a 2.5 hour surface interval. He
+complained of tingling in the hands and wrists and was taken to
+a hyperbaric unit.  (Coastguard report).
+April 2000 00/117
+Two divers completed a dive to 26m for a total of 38 mins that
+included a 3 min stop at 9m and a 1 min stop at 6m.  During
+the ascent one of the pair received an ascent speed warning
+from his computer which he was able to control.  They had to
+wait to be picked up by their boat and the diver who had had
+the ascent warning felt nauseous once he was back in the boat.
+He was sick several times and felt a little better.  He was cold
+and shivering.  He took a Stugeron tablet.  He began to notice
+a tingling in the little finger of each hand and in his cheeks.
+The tingling in his hands then began to spread and he was
+placed on oxygen.  Oxygen was supplied from a diving cylinder
+with an octopus regulator attached.  One of the second stages
+began to free flow.  The tingling sensation spread and
+worsened.  The Coastguard was alerted and the diver was
+airlifted to a recompression facility.  The diver was advised not
+to dive for 4 to 6 weeks.
+Percentage analysis of factors involved in
+cases of DCI
+0 10 20 30 40 50
+Percentage Occurrence
+Repeat Dives  
+Within Limits  
+Misuse/Missed
+stops  
+Rapid Ascent  
+Dive >30m  
+April 2000 00/220
+Three divers conducted a 26 min dive to a depth of 17m.
+During the descent one of the group experienced a sinus
+problem.  During the dive they conducted controlled buoyant lift
+and mask and regulator clearing drills.  Once back in the boat,
+the diver with the sinus problem complained of a headache.
+Later that day he reported feeling fatigued, generally unwell and
+still had a headache.  Medical advice was sought and a
+neurological bend was diagnosed.  The diver was successfully
+recompressed.
+April 2000 00/289
+A dive to 45m for 25 mins with no stops lead a diver to suffer
+tingling sensations in the arms and fingers. He was taken
+ashore by his boat and transferred by ambulance to a
+hyperbaric unit.  (Coastguard report).
+April 2000 00/290
+A rapid ascent from 25m caused a spinal bend. The diver was
+airlifted to a hyperbaric unit for treatment.  (Coastguard report).
+April 2000 00/127
+A diver completed a dive to 22m for a total duration of 34 mins,
+which included a 1 min stop at 6m.  The following morning she
+had a tingling feeling in both hands and feet and she felt
+extremely tired.  During the day she felt itchy, the tingling
+continued, and, that evening, she developed an ache in her
+elbow.  The next morning the ache had gone but the tingling
+had increased.  She contacted a recompression facility and
+was advised to attend for examination.  She received three
+sessions of recompression therapy spanning three days.  This
+diver was to be tested for a PFO.
+April 2000 00/291
+After surfacing from a 30m dive for 20 mins, including stops at
+6m, a diver took a mouthful of salt water and began coughing
+up blood. He was airlifted to a hyperbaric unit for treatment.
+(Coastguard report).
+April 2000 00/146
+Three divers completed a dive to 23m for 20 mins and they
+planned a safety stop of 3 mins at 6m.  During the ascent, at
+10m, the mask of one of the divers flooded and he was unable
+to clear it.  He felt that he was swallowing water through his
+regulator and swapped to his alternative air source.  This felt
+the same and he took the alternative air source of one of the
+other divers.  After two breaths he spat this out and, panicking,
+swam to the surface.  On the surface he signaled distress and
+was recovered into the boat.  He had no symptoms and was
+returned to the shore.  During the journey he felt unwell and,
+once ashore, was placed on oxygen.  He developed a slight
+pain in his neck.  A Coastguard happened upon the group and
+arranged for a helicopter to take this diver to a recompression
+facility.  A possible DCI was diagnosed and the diver was
+recompressed.  His symptoms were resolved.
+April 2000 00/295
+Following a first dive to 58m for 35 mins, a diver surfaced from
+his second dive of the day to 38m for 20 mins (3 hour surface
+interval). Shortly afterwards he developed a skin rash and was
+taken to a hyperbaric unit.  (Coastguard report).
+April 2000 00/297
+Two divers lost the shotline on a 30m wreck dive. One
+deployed his SMB while the other lost his weightbelt and made
+a rapid ascent. He surfaced with pains in the knees and was
+airlifted to a hyperbaric unit.  (Coastguard report).
+April 2000 00/116
+Two divers completed a dive to 36m for a total of 32 mins,
+including a 2 mins stop at 6m.  20 mins after surfacing one of
+the pair started to lose feeling in his legs.  A DCI was
+diagnosed and the diver was given recompression treatment.
+Subsequently he was detained overnight, in hospital, for
+observation.
+April 2000 00/115
+A pair of divers was at a depth of 16m when one of them
+experienced a problem with her regulator.  She made a fast
+ascent to the surface, her buddy stayed underwater.  5 mins
+later she re-descended and they dived to 20m.  At this point
+she experienced a regulator free flow and made another rapid
+ascent.  The buddy surfaced a few minutes later.  45 mins later
+she noticed rashes on her hands, arms and chest.  A skin bend
+was diagnosed and the diver was given recompression
+treatment that resolved the problem.  She was taken to hospital
+and discharged later that day.
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 11
+April 2000 00/100
+Two divers conducted a dive to 22m.  During the dive one of
+the pair felt that her breathing was laboured and switch the
+venturi control of her regulator to a more sensitive setting.  This
+diver was using two cylinders with independent regulators and
+she switched to the other cylinder after 18 mins.  After 22 mins
+they prepared to ascend, and she used the now spare regulator
+to inflate a delayed SMB.  Because the switch was still in the
+sensitive position, the regulator began to free flow and could
+not be stopped.  Whilst trying to resolve this problem the diver
+became buoyant and was unable to prevent herself being
+carried rapidly to the surface.  The buddy made a normal
+ascent.  On the boat the diver breathed nitrox 36 for 1 hour.  No
+symptoms were present.  The following day she was aware of
+numbness and tingling in her left arm.  She sought medical
+advice and was referred from hospital to a recompression
+facility.
+April 2000 00/101
+A diver completed a dive to 29m for 26 mins with a 2 min stop
+at 6m.  2 hours 45 mins she dived again to 23m.  The second
+dive was a drift dive.  During this dive the diver encountered an
+up current and was carried from 16m to the surface in less than
+1 min.  Back in the boat she breathed oxygen as a precaution.
+20 mins later she noticed numbness in her left hand and a
+tingling and weakness in her right hand.  She was taken by
+ambulance to hospital and then to a recompression facility.
+She received a 5 hour treatment and her symptoms fully
+resolved.
+April 2000 00/303
+A diver who made a fast ascent was taken direct to a
+hyperbaric unit by her club.  Her buddy was also treated as a
+precaution.  (Coastguard report).
+April 2000 00/302
+Once ashore from a dive, a diver suffered pains in his
+shoulders. Following medical advice, he was airlifted to a
+hyperbaric unit.  (Coastguard report).
+April 2000 00/184
+Two divers were conducting a dive to a maximum depth of
+18m.  At 14m one of the pair began to feel dizzy and felt that
+she was in danger of blacking out.  She held on to a rock and
+her buddy came to assist.  The buddy brought her to the
+surface using a controlled buoyant lift and they were recovered
+into their boat.  The diver then complained of blurred and
+double vision.  She was given oxygen and the boat returned to
+shore from where the emergency services were contacted by
+mobile phone.  When the ambulance crew arrived the diver was
+unable to move and losing the ability to speak.  A doctor
+examined the casualty and a helicopter was summoned to take
+her to a recompression facility for treatment.  The buddy
+experienced no adverse effects.
+April 2000 00/306
+Four deep dives in 2 days with inadequate stops, resulted in a
+diver suffering chest pains. He was airlifted to a hyperbaric unit
+for treatment.  (Coastguard & RNLI report)
+April 2000 00/128
+A diver completed a dive to 11m for 32 mins.  4 hours 20 mins
+later she undertook a drift dive to a maximum depth of 12m.
+Once back in the boat she noticed 'pins and needles' in her left
+leg and foot.  The sensation then started in her right leg and
+foot and in her hands.  She was placed on oxygen and the boat
+returned to the shore.  The diver was taken to a recompression
+facility.  A PFO test was planned.
+May 2000 00/308
+A diver surfaced from a 52m dive, missing stops, after getting
+tangled in his buddy's SMB. He was airlifted to a hyperbaric
+unit suffering from pains in his elbow.  (Coastguard report).
+May 2000 00/307
+A wreck diver surfaced with DCI. The diver was transferred to a
+hyperbaric unit.  (Coastguard report).
+May 2000 00/105
+A diver completed a dive to 11m for 35 mins with a 2 min stop
+at 6m.  1 hour 40 mins later he dived again to 26m for 33 mins
+with a 4 min stop at 6m.  6 weeks earlier the diver had suffered
+from a bad attack of flu.  The afternoon after the dive he
+noticed a tingling in his left hand.  The following night he
+experienced severe stomach cramps.  The following day his left
+hand was tingling and numb.  The next day it had spread up his
+arm and he noticed symptoms in his right hand.  He sought
+medical advice and received two sessions of recompression
+treatment that fully resolved his symptoms.
+May 2000 00/311
+A diver made a rapid ascent and surfaced in a poor condition,
+described as vomiting, blood from the nose then not breathing.
+He was airlifted to hospital and then to a hyperbaric unit where
+he was treated for a burst lung. His buddy was later treated in
+hospital.  (Coastguard report).
+May 2000 00/313
+The second dive of the day to 15m ended with a rapid ascent
+and severe headache. The diver was airlifted to a hyperbaric
+unit.  (Coastguard report).
+May 2000 00/107
+A dive to 25.1m for 27 mins ended in a rapid ascent from 15m.
+The diver suffered tingling and joint pain.  He was airlifted to a
+hyperbaric unit.  (Coastguard report)
+May 2000 00/145
+A diver completed a dive to 22m for a duration of 35 mins
+including a 1 min stop at 6m.  That evening he noticed an area
+of irritation on his left forearm.  The following morning a blotchy
+red rash had appeared and he contacted a recompression
+facility.  Three skin bends were noted and he was
+recompressed.  This resolved all but one of the problems.  The
+remaining rash finally disappeared 10 days later.
+May 2000 00/118
+Two divers completed a dive to 30m for a total duration of 34
+mins.  6 hours 30 mins later they dived again to 29m for 29
+mins including a 5 min stop at 6m.  The afternoon of the
+following day one of the pair experienced shoulder pains.  This
+was initially thought to be muscular but the condition worsened
+overnight.  Medical advice was sought and both divers were
+examined.  The diver with symptoms was recompressed but
+this did not resolve the problem.  It was concluded that either
+the problem was muscular or that too long had passed before
+treatment was given.
+
+NDC Diving Incidents Report - 2000
+12 ©BS-AC - 2000
+May 2000 00/155
+Three divers undertook a dive to a maximum depth of 27m.  All
+of these divers were using twin cylinders.  One of the group had
+twin 10l cylinders one with 80 bar and the other with 160 bar.
+After about 25 mins this diver used the last of the air in one of
+his cylinders to send a lifting bag to the surface and started to
+breathe off the other cylinder.  At 28 mins his second cylinder
+ran out and he switched to his 3l pony cylinder.  At this point his
+computer indicated a 4 min stop at 3m.  At 29 mins they started
+their ascent.  At 8m this diver ran out of air.  He signaled that
+he was out of air to his two buddies, who were 4m below him.
+He re-descended to his buddies and took the spare regulator
+from one of them.  A 5 min stop was now indicated.  At this
+point buoyancy control was lost and both divers were carried to
+the surface.  The computer of the diver who had run out of air
+indicated that 12 mins of decompression stops had been
+missed; the other diver had missed 6 mins of stops.  The third
+diver completed his stops.  The diver who had run out of air
+was placed on oxygen and the boat returned to the shore.  20
+mins after the oxygen was finished the diver noted a tingling
+sensation on the top of his left hand.  Medical advice was
+sought and a spinal DCI was diagnosed.  The diver received
+two sessions of recompression treatment that resolved his
+symptoms.  No symptoms were reported by the other divers
+and they were not recompressed.
+May 2000 00/314
+A diver surfaced with suspected DCI, he was conveyed to a
+hyperbaric unit once the dive vessel docked.  (Coastguard
+ report).
+May 2000 00/315
+Portland Coastguard received a mayday broadcast. A diver had
+surfaced from a 34m dive for 25 minutes and was paralyzed on
+one side. He was airlifted to a hyperbaric unit by Coastguard
+Helicopter.  (Coastguard report).
+May 2000 00/316
+A diver had dived a total of 5 dives to 23m (max) in 6 hours.
+The result of his endeavours was back, shoulder and hip pain
+plus tingling in the hands and forearm. He was taken by lifeboat
+to a hyperbaric unit.  (Coastguard report).
+May 2000 00/317
+A diver surfaced with suspected decompression sickness. She
+was taken to hospital by ambulance.  (Coastguard report).
+May 2000 00/130
+A diver dived to 52m for 19 mins.  He stopped at 20m for 4
+mins but missed the other stops.  He was airlifted to a
+hyperbaric unit for precautionary treatment.  (Coastguard
+report)
+May 2000 00/323
+Two divers dived to 36m for 37 mins. They made a fast ascent
+from 17m. One suffered decompression sickness and was
+airlifted to a hyperbaric unit. The buddy was later taken to the
+unit by car.  (Coastguard report).
+May 2000 00/320
+A diver dived to 36m but missed a stop at 3m. He surfaced with
+pain to his shoulder so he was taken to a hyperbaric unit by
+lifeboat.  (Coastguard & RNLI report)
+May 2000 00/141
+A pair of divers conducted a dive to a maximum depth of 36m.
+30 mins into the dive they were on an underwater rock wall at a
+depth of 22m.  At this point one of the divers was too buoyant
+and struggled to dump air from his BCD.  His buddy attempted
+to assist and saw air leaving the jacket.  The buoyant diver was
+carried upwards and his buddy hung on attempting to dump air
+from his own BCD.  At 9m the second diver saw that his
+computer indicated that a 4 min stop was required and he
+released the buoyant diver, who was carried to the surface.
+The second diver descended to 18m and then re-ascended to
+6m to complete his stops.  He could see the buoyant diver
+hanging on to the SMB at the surface.  At the surface both
+divers then swam to the boat and climbed aboard.  The
+buoyant diver had no symptoms.  Oxygen was available but its
+use was discouraged, by the skipper, because of the
+inconvenience of getting it refilled.  The following day the
+buoyant diver experienced mild symptoms of DCI and was
+recompressed.
+May 2000 00/325
+A diver with DCI was transferred to a hyperbaric unit by
+lifeboat.  (Coastguard report).
+June 2000 00/150
+A diver was 20 mins into a dive at a depth of 37m.  He became
+separated from his buddy in poor visibility and got tangled in
+some line.  He cut himself free and made a rapid ascent to the
+surface.  At the surface he showed symptoms of DCI and the
+Coastguard was alerted.  A lifeboat and helicopter were tasked
+to assist and he was given oxygen and flown to a
+recompression facility for treatment.  (Newspaper report only)
+June 2000 00/157
+Two divers conducted a dive to a maximum depth of 37m and
+were ascending when one of the pair became inverted.  The
+other diver went to assist him and, despite trying to make
+himself heavy, was unable to prevent them from being carried
+to the surface.  The dive had been a 'no stop' dive but they
+went from 28m to the surface in less than 1 min.  The divers
+were recovered into the boat and the inverted diver placed on
+oxygen.  Another boat from the same party came to assist and
+the buddy was also placed on oxygen.  The buddy noticed a
+tingling and numbness in his fingers and forearm.  The
+Coastguard was alerted and the boats returned to shore to be
+met by an ambulance.  The buddy's symptoms worsened; he
+developed a dull ache in his shoulder.  They were taken to a
+recompression facility and examined.  The buddy had reduced
+power in his limbs, felt somewhat confused, and had poor
+balance.  Both divers were given two recompression
+treatments, and the buddy required a further three days of
+treatment.  This diver was left with residual symptoms of
+extreme tiredness and short-term memory loss.  A spinal and
+cerebral DCI was diagnosed.
+June 2000 00/139
+Three divers conducted a dive to 19m.  At the end of the dive
+they deployed a delayed SMB.  The reel jammed and the diver
+holding it was dragged upwards.  The dive leader grabbed hold
+of this diver and attempted to stop the ascent.  In the confusion
+the dive leader's glove fouled the reel lanyard and both were
+dragged up to 3m within 1 min.  The dive leader got no
+response to her signals to the other diver and decided to
+ascend to the surface.  Total dive time was 31 mins.  The third
+diver made a normal ascent.  4 mins of decompression were
+missed.  The divers who had made the rapid ascent were
+placed on oxygen and one of them complained of 'pins and
+needles'.  The boat's radio was found to be malfunctioning so
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 13
+they returned rapidly to the shore and then contacted the
+Coastguard.  Both divers were taken by helicopter to a
+recompression facility where the diver with symptoms was
+recompressed.  Both divers fully recovered.  The diver using
+the reel was unfamiliar with it and the trigger of the reel could
+jamb on the ratchet if depressed too far.  The radio malfunction
+was traced to a faulty microphone.
+June 2000 00/331
+A 22m dive for 21 mins on the James Egan Layne was spoilt by
+a rapid ascent and subsequent chest pains. The diver was
+airlifted to a hyperbaric unit.  (Coastguard report).
+June 2000 00/332
+A diver made a rapid ascent and suffered nausea and tingling
+of the extremities. He was taken to hospital, where he was later
+airlifted to a hyperbaric unit.  (Coastguard report).
+June 2000 00/148
+A diver suffering from a suspected DCI was airlifted to a
+recompression facility for treatment.  (Newspaper report only)
+June 2000 00/335
+A diver made a rapid ascent from 25m after she became
+tangled in a SMB. She surfaced feeling sick, dizzy and with
+tingling hands. She was airlifted to a hyperbaric unit.
+(Coastguard report).
+June 2000 00/336
+A diver dived to a depth of 23m for 25 mins. He made a normal
+ascent to 6m for a decompression stop, but his air ran out. His
+reserve air failed to function so he made a rapid ascent. This
+resulted in dizziness and general malaise, so he was airlifted to
+a hyperbaric unit.  (Coastguard report).
+June 2000 00/171
+Two divers conducted a wreck dive in a maximum depth of
+34m.  Both divers were using nitrox 32.  After 20 mins they
+prepared to ascend.  They attempted to deploy a delayed SMB
+but it became detached from the line.  They attached a second
+SMB and released it.  The reel then jammed and started to
+drag the diver holding it to the surface.  This diver was reluctant
+to release the reel as they planned to conduct decompression,
+and she also hoped that it would become free.  Her buddy took
+hold of her to try to prevent an uncontrolled ascent, but was
+also carried up.  At 20m the buddy let go and made a normal
+ascent that included a 3 min stop at 6m.  The diver with the reel
+was carried directly to the surface.  She was recovered into the
+boat and placed on oxygen.  The Coastguard was alerted and
+the casualty was taken by helicopter to a recompression facility
+for treatment.
+June 2000 00/153
+A diver suffering from DCI was given recompression treatment.
+(Newspaper report only).
+Decompression data source analysis
+0 20 40 60 80 100
+RNLI
+Newspaper
+BSAC Reports
+Coastguard
+June 2000 00/194
+A diver completed a dive to 48m.  He started his ascent after
+20 mins.  He stopped for 10 mins between 14 and 6m and then
+for 30 mins at 5m.  He competed 3 mins more decompression
+than indicated by his computer and 8 mins longer than
+indicated by his buddy's computer.  At the surface he
+experienced extreme fatigue and rested for the remainder of
+the day.  5 to 6 hours after the dive his legs became numb and
+he attended hospital where he was placed on oxygen for 4
+hours; this resolved his symptoms.  The following evening he
+lost all feeling in his right foot.  He contacted a recompression
+facility and received two sessions of treatment.  His buddy, who
+had decompressed on nitrox, exhibited no symptoms.
+June 2000 00/343
+A diver surfaced after a 66m dive and suffered visual
+disturbances. She was airlifted to a hyperbaric unit for
+treatment.
+  (Coastguard report).
+June 2000 00/347
+After completing a normal dive to 32m for 32 mins (with a 4 min
+stop at 6m), a diver developed slurred speech and dizziness
+some 10 mins later. She was airlifted by Coastguard helicopter
+to a hyperbaric unit.  (Coastguard report).
+June 2000 00/195
+A diver made a dive to 36m for a duration of 32 mins including
+5 mins of decompression stops at 3m.  3 hours later he dived
+again to 30m for a total of 25 mins.  An indicated stop of 1 min
+at 3m had cleared by the time he had ascended to 20m.  A few
+hours later he experienced a mild ache in his upper right arm.
+The condition worsened during the night and he contacted a
+recompression facility early the next morning.  He received four
+sessions of recompression treatment that fully resolved his
+symptoms.
+July 2000 00/356
+The same dive charter vessel as in DTG 021101 (00/354) had
+a third casualty of the morning when a diver surfaced from a
+29.1m/10 min dive, with a skin bend and tingling sensations.
+He was airlifted to a hyperbaric unit as well.  (Coastguard
+report).
+July 2000 00/354
+A diver dived to 28m for 8 mins and then panicked as she
+claimed she could not breathe. Despite her buddy’s attempts to
+control the ascent, both made a rapid ascent and displayed
+
+NDC Diving Incidents Report - 2000
+14 ©BS-AC - 2000
+signs of DCI. Both were airlifted to a hyperbaric unit.
+(Coastguard report).
+July 2000 00/167
+A diver was 15 mins into a trimix dive, at a depth of 87m.  At
+this point the zip of his drysuit failed and water entered the suit.
+The diver had planned for 20 mins bottom time with an overall
+dive time of 127 mins.  Realizing that he would not be able to
+survive the cold for long he made an ascent up the shotline.  At
+41m he stopped for 1 min and switched to nitrox 37.  He
+stopped at 36m for 1 min and then at 33m for a further minute.
+He stopped at 20m for 2 mins and again at 16m for 2 mins.  He
+switched to nitrox 80 and made stops at 12 and 6m.  At the
+surface he was recovered into the boat and assisted out of his
+drysuit.  He changed into warm clothes and then collapsed,
+passing in and out of consciousness.   The Coastguard was
+alerted and a lifeboat and helicopter were launched to assist.
+The casualty was transferred into the lifeboat and then airlifted.
+The helicopter stopped on its way to a recompression facility to
+collect a doctor.  The diver had to be taken further than normal
+because the closest recompression facility was occupied as the
+result of an earlier diving incident.  The casualty spent 4 days in
+the recompression chamber and made a good recovery.
+July 2000 00/230
+A diver completed a series of three dives; 10m for 26 mins,
+36m for 27 mins, and 14m for 27 mins.  6 to 7 hours later he
+felt a pain in his back and neck and some tingling in his hands.
+He sought medical advice and received recompression
+treatment.  This resolved his symptoms.
+July 2000 00/173
+Two divers suffered symptoms of DCI having surfaced missing
+10 mins of decompression stops.  They were airlifted to a
+recompression facility.  Both divers were recompressed.  One
+of the pair required a further session of treatment.  It is reported
+that they were out of air.
+July 2000 00/361
+A rapid ascent from a 37m/25 min dive resulted in a 'pins and
+needles' sensation in the hands. This diver and his buddy were
+taken to hospital by ambulance.  (Coastguard report).
+July 2000 00/221
+Two divers conducted a wreck dive to a maximum depth of
+51m.  One of the pair had forgotten his computer and so
+borrowed a set of IANTD tables.  Prior to the dive he forgot to
+connect his drysuit direct feed and to put on his weightbelt.
+During the descent, at 18m, he suffered from suit squeeze and
+his buddy connected the direct feed hose.  At the bottom he put
+a rock in his drysuit pocket to compensate for the missing
+weightbelt.  After 20 mins at a depth of 44m he deployed a
+delayed SMB.  In doing so he lost the rock from his pocket and
+started to ascend uncontrollably with his buddy.  The buddy
+took the SMB reel, swam back down to the wreck and tied the
+reel to the wreck.  This allowed them to control their ascent.
+They took 4 mins to get to 12m.  At 12m the buoyant diver let
+go of the line to switch to a nitrox 80 decompression gas.  He
+was carried to the surface.  The buddy deployed his delayed
+SMB and completed 41 mins of stops as indicated by his
+computer.  Total dive time 72 mins.  The buoyant diver was
+recovered into the boat.  He breathed nitrox 80 until oxygen
+was made ready, he then breathed oxygen.  He complained of
+a pain in his right elbow.  The Coastguard was contacted and
+the diver airlifted to a recompression facility for treatment.  No
+subsequent ill effects were experienced.
+July 2000 00/243
+A pair of divers completed a 21 min dive to a depth of 43m,
+including a 2 mins decompression stop at 3m.  Shortly after
+surfacing one of the pair experienced a severe stomach pain
+and was placed on oxygen.  The Coastguard was alerted and
+they were advised to monitor the casualty.  5 mins later he
+started to develop 'pins and needles' in his feet and a lack of
+feeling in his legs.  The Coastguard was contacted again and
+the casualty and his buddy were airlifted to a recompression
+facility.  The casualty received a 7 hour recompression
+treatment.  The buddy showed no symptoms of DCI and was
+not recompressed.  He was, however, treated for a sprained
+ankle which he sustained when jumping from the helicopter.
+July 2000 00/365
+Three dives the previous day, two to 30m and one to 17m, plus
+a 32m dive the next day, led to numbness and weakness in the
+legs. This diver was admitted to a hyperbaric unit for treatment.
+(Coastguard report).
+July 2000 00/367
+The Coastguard was called on VHF radio by a commercial dive
+boat reporting a diver with suspected DC1. A lifeboat
+transferred the casualty ashore for onward passage to a
+hyperbaric unit.  (Coastguard & RNLI report)
+July 2000 00/202
+A diver completed a dive to 7m for 12 mins.  20 mins later she
+dived again to 8m for 17 mins.  90 mins after the second dive
+she experienced a tingling in the fingers of her left hand.  A few
+hours later the symptoms remained and she sought medical
+advice.  DCI was considered improbable but she received two
+sessions of recompression treatment.  Some residual tingling
+remained and further medical examination was planned.  This
+diver had suffered a DCI 3 months earlier (Report 00/100).  A 6
+week lay off from diving had been recommended.  These were
+the first dives since the earlier DCI incident.
+July 2000 00/368
+A diver made a rapid ascent from a 34.6m/41 min dive. He
+complained of difficulty breathing, pain in the chest and a
+'bubbling' sensation in the lungs. He was met ashore by an
+ambulance and taken to hospital and then onwards to a
+hyperbaric unit.  (Coastguard report).
+July 2000 00/370
+This diver had made 3 dives on this day, the previous 2 to 12m
+and the third to 15m. He made a rapid ascent, and later
+developed joint pain and pins and needles. He was admitted to
+a hyperbaric unit for treatment.  (Coastguard report).
+July 2000 00/371
+A rapid ascent from 22m caused this diver to lose
+consciousness on the surface. He regained consciousness and
+complained of severe head pain. He was airlifted to a
+hyperbaric unit for treatment. It is alleged that this diver was
+awaiting surgery for a heart complaint, and his neck seal on his
+new drysuit was far too tight.  (Coastguard report).
+July 2000 00/217
+Three divers all reported suffering from vomiting, headache and
+tingling sensations following a dive (profile unknown).  They
+were airlifted to a hyperbaric unit.  (Coastguard report)
+July 2000 00/237
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 15
+Three divers commenced a dive to a maximum depth of 22m.
+Some time into the dive they entered an area of fast moving
+water between two rock formations.  Realizing that they had
+moved into a current one of the divers deployed a delayed
+SMB.  The SMB caused this diver to move at a different speed
+and he was carried away from the others.  This single diver
+made a safe ascent to the surface and was recovered into a
+boat.  The two remaining divers were carried down to 22m and
+then, despite their efforts to regain control, were swept up to
+the surface in 40 seconds.  At the surface one of the divers was
+briefly unconscious and her buddy inflated her BCD.  They
+were recovered into their boat.  The diver who had been
+unconscious had a severe headache, and the other had slight
+'pins and needles'.  Both divers were given oxygen and they
+were taken ashore.  The Coastguard was alerted and two
+ambulances and two helicopters arrived.  All three divers were
+taken to hospital.  After examination two were released but the
+diver with the headache was taken on to a recompression
+facility where she received treatment for 5 hours.
+July 2000 00/375
+A diver surfaced from a 48m dive and had missed all stops. He
+suffered pains in the elbow. Whilst the Coastguard helicopter
+was en-route, another diver surfaced and reported missing 15
+mins of stops from his 47m dive. Both divers were airlifted to a
+hyperbaric unit for treatment.  (Coastguard report).
+July 2000 00/379
+A 75m tri-mix wreck dive for 25 mins ended with a free ascent
+and missed stops. The diver surfaced, but had lapsed into
+semiconsciousness after 10 mins. He was evacuated to a
+hyperbaric unit by RN helicopter.  (Coastguard report).
+July 2000 00/378
+A diver with DCI was airlifted to a mainland hyperbaric unit by
+Coastguard helicopter.  (Coastguard report).
+July 2000 00/216
+Two divers suffering from DCI were airlifted to a recompression
+facility for treatment.  (Newspaper report only)
+July 2000 00/380
+A diver with suspected DCI on St Kilda was airlifted, by
+Coastguard helicopter, to a mainland hyperbaric unit for
+treatment.  (Coastguard report).
+August 2000 00/222
+A diver completed a dive to 30m for 30 mins, including a 1 min
+safety stop at 6m.  1 hour 49 mins later he dived again to 24m
+for 30 mins including a 1 min safety stop at 6m.  1 hour after
+the second dive he began to feel a cramp like pain across his
+abdomen.  He then developed a numbness and tingling in his
+upper left leg, the sole of his left foot and his toes.  He was
+placed on oxygen.  After 10 mins the symptoms had
+diminished.  The boat headed back to the shore and the
+Coastguard was alerted.  Medical advice was provided by radio
+and the oxygen administration was stopped.  On arrival on
+shore all symptoms had resolved.  The diver was monitored for
+further symptoms and none were experienced.
+August 2000 00/387
+Type 2 DCI struck 5 mins after surfacing from the second dive
+of the day. This diver, and his buddy (who was OK, but had the
+same dive profile) were airlifted to a hyperbaric unit. His first
+dive was to 36m for 60 mins and the second dive to 27m for 25
+mins (incl. stops).  (Coastguard report).
+August 2000 00/384
+A diver with DCI was transferred ashore by two lifeboats in
+relay and taken to a hyperbaric unit.  (Coastguard report).
+August 2000 00/209
+A diver using nitrox 27 conducted a dive to a maximum depth
+of 44m.  After 10 mins, at 35m, he deployed a delayed SMB.  A
+1 min stop was conducted at 20m, followed by a 4 min stop at
+6m on nitrox 53.  He surfaced with a total dive duration of 20
+mins.  On surfacing he felt unwell and dizzy.  He was placed on
+oxygen.  20 mins later he was still feeling unwell, dizzy and
+tired.  The Coastguard was alerted and the casualty taken by
+helicopter to a recompression facility.  He received a 6 hour
+treatment which resolved his symptoms.
+August 2000 00/236
+Two divers conducted a dive to a maximum depth of 30m.
+They started their ascent after 26 mins.  They arrived at 6m
+after 27 mins, where they conducted a 4 min decompression
+stop.  Their total dive time was just over 32 mins.  6 hours later
+one of the pair noted a pain in his right triceps.  The following
+morning the pain had gone but it returned within 1 hour.  He
+sought medical advice and attended a recompression facility.
+He was recompressed and this resolved the symptom.
+August 2000 00/390
+A dive to 24m for 37 mins resulted in a diver seeking medical
+attention after a 'pins and needles' sensation in the forearm
+ was felt the next day.  (Coastguard report).
+August 2000 00/226
+A diver conducted a dive to 29m for a duration of 30 mins
+which included a 3 min decompression stop at 6m.  Later this
+diver complained of fatigue, dizziness, and pains in his
+shoulder, elbow and ankle.  He was placed on oxygen and the
+Coastguard alerted.  He was transported by lifeboat to a
+recompression facility where he received a 6 hour treatment.
+He responded well to the treatment and was kept in hospital
+overnight for monitoring.
+August 2000 00/392
+4 dives in 2 days (depths unknown but reported not excessive)
+with a rapid ascent on the last dive led to a neurological
+embolism and evacuation to a hyperbaric unit.  (Coastguard
+report).
+August 2000 00/213
+Two divers were ascending from a 33m dive.  They planned a
+first decompression stop at 9m.  At 9m one of the pair lost
+control of his buoyancy and ascended rapidly to the surface. At
+the surface he was given his buddy's pony regulator from which
+he breathed nitrox 40.  He was recovered onto the boat and
+placed on oxygen.  9 mins of decompression stops had been
+missed.  The diver had a pain in his elbow.  He got out of his
+diving suit and went to lay down in a cabin.  A recompression
+facility was contacted by phone for advice.  The diver
+developed a back pain.  The boat returned to harbour and the
+diver was taken to the recompression facility.  Tests were
+inconclusive and the diver was recompressed.  This treatment
+resolved his symptoms.  He was given a check up the following
+day, no further treatment was required.
+August 2000 00/212
+Two divers were ascending from a dive to 17m.  At 11m one of
+the pair felt buoyant and dumped air from her BCD.  She was
+still buoyant and attempted to dump air from her drysuit.  The
+
+NDC Diving Incidents Report - 2000
+16 ©BS-AC - 2000
+dump valve would not allow air to be released and the diver
+made a rapid ascent to the surface.  Her buddy made a normal
+ascent.  At the surface the diver was towed ashore.  30 mins
+later this diver experienced a tingling in her fingers.  1 hour later
+she felt dizzy and had pain in her knees and elbow.  She
+attended her local casualty department.  After a 40 min wait
+she was placed on oxygen and given a chest x-ray.  She was
+then sent by ambulance to a recompression facility where she
+received treatment.  A full recovery was reported.
+August 2000 00/232
+A 70 year old diver surfaced from a 25m, 36 min dive.  He felt
+unwell with tingling in his extremities and was airlifted to a
+ hyperbaric unit.  (Coastguard report)
+August 2000 00/228
+A diver completed a 31 min dive to 31m including a 4 min stop
+at 6m.  1 hour 22 mins later she dived again.  At the start of this
+second dive her buddy suffered a drysuit leak at 6m and they
+returned to the surface.  They then dived to 11m and after 22
+mins they started to ascend.  The buddy was unable to control
+his drysuit buoyancy and became inverted.  The first diver
+attempted to help and they ascended quickly to the surface.  1
+hour after the dive the first diver noted a numb feeling in her
+right hand, fingers and toes.  5 days later the condition
+remained and she was advised to seek medical help.  She
+attended hospital and was placed on oxygen which alleviated
+the symptoms.  She was then taken by air ambulance to a
+recompression facility where she received a 5 hour treatment.
+August 2000 00/394
+A 59 yr old diver with DCI was airlifted to a hyperbaric unit for
+treatment.  (Coastguard report).
+August 2000 00/397
+A 38m dive for 23 mins resulted in this diver suffering from arm
+pains. He was evacuated to a hyperbaric unit for treatment.
+(Coastguard report).
+August 2000 00/211
+A diver conducted a dive to 37m for 30 mins.  He developed a
+numbness in his lower body.  He was placed on oxygen and the
+Coastguard alerted.  Once ashore he was taken by ambulance
+to a helicopter and airlifted to a recompression facility.
+(Coastguard report).
+August 2000 00/399
+A rapid ascent from 54m following a bottom time of 30 mins
+resulted in DCI and evacuation to a hyperbaric unit.
+(Coastguard report).
+August 2000 00/233
+Two divers conducted a dive to 27m.  They left the bottom after
+29 mins and made a slow ascent conducting a 5 min stop at
+5m of which 3 mins was a safety stop.  They surfaced with a
+total dive time of 43 mins.  40 to 60 mins after the dive, one of
+the pair noted a small rash on her arm.  Medical advice was
+sought and the diver was recompressed.  After 20 mins the
+symptom had resolved.  This diver had suffered a skin bend 3
+years earlier.
+August 2000 00/400
+A diver had completed a 60m dive for 20 mins, making a series
+of stops. The casualty had been out of the water for 2 hours
+before he suffered shortness of breath, dizziness and vomiting.
+He was airlifted to a hyperbaric unit for treatment.  (Coastguard
+report).
+September 2000 00/406
+A rapid ascent from 31m resulted in DCI. The diver was
+transferred to a hyperbaric unit by ambulance.  (Coastguard
+report).
+September 2000 00/407
+Following a weeks diving holiday, this diver reported being
+unwell. She was transported to a hyperbaric unit for treatment.
+(Coastguard report).
+September 2000 00/246
+A diver completed a 33 min dive to a depth of 29m with a 6 min
+stop at 6m.  2 hours 41 mins later he dived again to 27m for 37
+mins with a 4 min stop at 6m including an additional 2 min
+safety stop.  On climbing back into the boat he felt a pain in his
+back.  He had a history of back pain, however this was worse
+than experienced before.  He sought medical advice and took
+painkillers.  The following day the condition was unchanged
+and he sought further medical advice.  A weakness was found
+in his left leg and he received two sessions of recompression
+treatment.  The treatment was effective for the leg weakness
+but did not resolve the back pain.  This diver had had a DCI 20
+years earlier.
+September 2000 00/409
+Following 4 dives in the previous 30 hours, this diver developed
+a skin bend after a fast ascent from a 21m dive. He was
+airlifted to a hyperbaric unit for treatment.  (Coastguard report).
+September 2000 00/411
+A diver reported feeling unwell with blurred vision as a result of
+a 30m dive the previous day. She was taken to a hyperbaric
+unit by ambulance.  (Coastguard report).
+September 2000 00/414
+A diver completed all stops correctly following a dive, but
+experienced tingling extremities and a prickling sensation to her
+skin. She was airlifted to a hyperbaric unit for treatment.
+(Coastguard report).
+September 2000 00/252
+A diver completed a dive to 35m for 50 mins including a 7 min
+stop at 6m.  4 hours 20 mins later he dived again, this time to
+25m for 42 mins with a 3 min stop at 6m.  Early the following
+morning he awoke with a pain from his shoulder to his elbow.
+He sought medical advice and was successfully recompressed.
+September 2000 00/418
+A missed stop following a 52m dive for 50 mins resulted in this
+diver suffering from blurred vision and tingling in the hands. He
+was taken by lifeboat to a hyperbaric unit for treatment.
+(Coastguard report).
+September 2000 00/417
+A 22metre/25 min dive was immediately followed by a 52m/10
+min dive. The diver suffered DCI and was transferred to a
+hyperbaric unit by lifeboat.  (Coastguard report).
+September 2000 00/251
+A diver made a normal ascent from 35m but suffered
+discomfort in his stomach and leg.  The dive boat brought him
+ashore where a hyperbaric unit ambulance met him.
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 17
+(Coastguard report)
+
+NDC Diving Incidents Report - 2000
+18 ©BS-AC - 2000
+Injury / Illness
+October 1999 00/005
+After a dive to 30m for 40 mins a diver suffered fatigue,
+headache and stress.  He was sent to hospital as a precaution.
+October 1999 00/004
+A trainee had completed a 20 mins pool training session to a
+maximum depth of 3m.  She left the pool by a ladder and was
+seated being de-briefed when she lapsed into unconsciousness.
+She was wrapped in towels and a space blanket and an
+ambulance was called.  The casualty fluctuated between a
+conscious and a semiconscious state.  She was confused, felt
+numb and had difficulty focusing her eyes.  In hospital acute
+malnutrition was diagnosed.  It was subsequently learned that
+the casualty had not eaten for 15 hours, had completed a 12
+hour working shift, and had had polio and yellow fever injections
+prior to the pool session.
+October 1999 00/014
+Two divers dived to a wreck at a depth of 15m.  One of the two
+was using a drysuit which she thought had a loose neck seal.
+Once underwater, this diver also discovered that she was over
+weighted.  During the ascent she was unable to use the
+buoyancy of her suit since the air escaped through the neck
+seal.  She used her BCD and this started a rapid ascent.  Her
+buddy took hold of her and dumped the air from her BCD, this
+caused them both to sink back to the seabed.  The buddy
+suffered a burst eardrum during this descent since he did not
+have a hand free to clear his ears.  They then made an ascent
+to 6m and conducted a 3 mins safety stop.  Both divers arrived
+safely at the surface and the injured diver went to hospital.
+October 1999 00/008
+A trainee was ascending from a depth of 34m after a dive of 10
+mins.  On the way up she spat her regulator out.  The instructor
+brought her to the surface, where she was assisted by a third
+diver.  The diver was recovered from the water and given
+oxygen.  She was briefly unconscious but quickly recovered.
+She was taken to hospital but discharged after 3 hours.  No
+further ill effects were reported.
+October 1999 00/022
+A trainee completed a dive to 15m for 30 mins.  One hour later
+she started a second dive.  At 3m she experienced a problem
+with her ears.  Trainee and instructor surfaced and she
+complained of a pain in her left ear.  The following day she
+underwent a medical examination and it was discovered that she
+had a perforated eardrum.  The trainee was recovering from a
+cold at the time of the dive.
+November 1999 00/045
+Two divers began a night dive.  At a depth of 18m one of the
+pair blacked out.  Her buddy grabbed hold of another diver close
+by.  This third diver brought the casualty to the surface; on the
+way up the casualty's regulator fell from her mouth.  She was
+recovered from the water and found to be shaken but unhurt.
+She then revealed that she had a history of mild epilepsy.
+December 1999 00/042
+A trainee diver was 1 min into a dive at a depth of 6m when she
+panicked.  She returned to the surface.  She was shaky and cold
+and complained of chest pains.  An ambulance was called, but it
+was decided that she did not need to go to hospital.  The diver
+was unable to explain what had caused the problem.
+December 1999 00/043
+Three divers dived to 32m.  At this depth one of the group
+started to shake uncontrollably.  One of the others saw the
+problem and brought her to the surface using a controlled
+buoyant lift.  All three surfaced safely and there were no
+subsequent ill effects.  It is believed that the problem was due to
+nitrogen narcosis.
+December 1999 00/054
+A diver was under instruction using a rebreather.  At 22m, 31
+mins into the dive, this diver started to convulse.  The instructor
+brought him to the surface.  The convulsions continued.  The
+diver was taken to hospital and discharged later that day.  It is
+thought that there was a problem with oxygen readings on the
+rebreather.
+February 2000 00/074
+After a normal dive to a maximum depth of 22m for 26 mins, a
+diver reported that he had had a minor pain in his neck during
+the dive and that he was suffering from 'pins and needles' in his
+neck and spine.  He was checked for DCI at the time and one
+hour later.  No problems were identified.
+March 2000 00/076
+Two divers ascended after a 25 min dive to 15m.  At the surface
+one of the pair felt his ear 'pop'.  He is believed to have
+damaged his ear.
+March 2000 00/070
+A diver conducted a controlled buoyant lift as part of his training
+programme.  The diver acting as the casualty was wearing a
+drysuit with a cuff dump.  The lift was conducted with her BCD
+and no air was dumped from the suit.  The 'casualty' attempted
+to dump air from the cuff dump but none escaped.  They made a
+fast ascent from 23 to 13m where the ascent slowed.  Control
+was lost again at 10m and the divers made a buoyant ascent to
+the surface.  1 hour 12 mins later the diver who had been acting
+as the casualty dived again.  She spent 10 mins at 20m, 10
+mins at 10m and 8 mins at 6m.  On surfacing she reported a
+burning sensation in her fingers and 'pins and needles'.  50 mins
+later half of her right hand was numb and tingling.  She was
+given oxygen and medical advice was sought.  They were
+advised to keep the casualty warm and monitor her for a further
+30 mins.  Feeling gradually returned to her hands and it was
+concluded that the symptoms were the effects of cold.  The cuff
+dump had worked correctly during the second dive.
+March 2000 00/078
+A diver was kitting up for a rebreather training course.  He was
+wearing a drysuit, became over heated, and fainted.  No
+subsequent ill effects were reported.
+March 2000 00/079
+A trainee diver made a stride entry into the water.  She then
+panicked and fainted.  No subsequent ill effects were reported.
+March 2000 00/077
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 19
+A diver experienced 'pins and needles' in his foot after a dive to
+7m.  1 hour later the symptoms had gone.
+April 2000 00/085
+Three divers conducted a dive to 20m.  After 20 mins one of the
+divers realized that he was using more air than normal and
+signaled that he wanted to ascend.  They began their ascent,
+during which this diver started to feel breathless and began to
+ascend faster.  At the surface he was breathless and distressed.
+He was recovered from the water and partially collapsed.  He
+was given oxygen and made a fast recovery.  He had a residual
+mild chest pain and was advised to contact his doctor.
+April 2000 00/086
+A diver sustained a very bad cut to her finger whilst using a
+diving knife whilst out of the water.
+April 2000 00/124
+Two divers were conducting a dive to 18m.  After 15 mins one of
+the pair developed a slight cough and was beginning to feel
+cold.  She signaled that she wished to ascend.  At 6m she
+experienced breathing difficulties and believed that she had
+equipment problems.  She removed her regulator and purged it.
+There was no problem with the equipment and she realized that
+she had a medical problem.  At the surface she had great
+difficulty breathing and her buddy towed her to the shore.  She
+was given oxygen and taken to hospital.  Pneumonia was
+diagnosed, she was given antibiotics and kept in overnight.  The
+diver had taken Sudafed on the morning of the dive.  It was
+suggested that compression on her lungs and her horizontal
+position during the dive had caused mucus to push up into her
+windpipe causing a blockage.  The diver subsequently made a
+full recovery.
+April 2000 00/288
+A diver made an ascent from 25m but during this ascent he
+became disoriented and faint. Upon surfacing he complained of
+stomach pains and 'pins and needles' in his arms. He was taken
+to hospital.  (Coastguard report).
+April 2000 00/292
+A diver with chest pains was transferred to hospital by
+ambulance.  (Coastguard report).
+April 2000 00/126
+A trainee diver completed a dive to 7m for 36 mins followed by a
+dive to 9m for 34 mins.  The following day he dived again to 19m
+for 30 mins.  He reported no symptoms.  Eight days later this
+diver met others to undertake a further dive.  He complained of
+'pins and needles' in his knee.  Medical advice was sought and
+the diver was advised to report to a recompression facility.  The
+diver was given a precautionary recompression treatment, but it
+was concluded that it was very unlikely that the problem was
+diving related.
+April 2000 00/099
+A vehicle and trailer were being used to recover an RHIB from
+the water after a dive.  As the tide was low, the vehicle was
+driven higher up the slipway to gain traction and a rope was
+used to connect to the trailer.  A man with a rowing dinghy on a
+trailer asked the vehicle driver to move over so that he could get
+past; this he did.  The dinghy user then tried to pass the RHIB
+and trailer as it was being recovered.  He fell backwards from
+the slipway and landed on a shingle beach.  He struck his head
+and was knocked unconscious.  His dinghy collided with the
+RHIB trailer, rolled off of its trailer and across the unconscious
+man's legs.  The casualty was given oxygen and an ambulance
+called to take him to hospital.  He was released after two nights.
+He suffered shock and bruising and was unable to remember
+the circumstances of the incident.
+April 2000 00/296
+A father and son were shore diving when on the ascent; the son
+got stuck in underwater rocks and became distressed. The
+father gave assistance, but son soon showed signs of
+hypothermia. The son was airlifted to hospital.  (Coastguard
+report)
+April 2000 00/096
+A diver was attempting to remove the safety wire from a boat
+trailer when the towing vehicle was driven away.  The top of his
+finger was severed.  The casualty was given first aid treatment
+to control the bleeding.  The top of his finger was packed in ice
+and taken with the casualty to hospital.  It was not possible to re-
+attach the severed part.  The casualty was discharged that
+evening.
+May 2000 00/104
+A diver entered the water from an RHIB to begin a wreck dive.
+As she entered the water she landed on top of a shot buoy to
+which were attached two smaller buoys on two pieces of rope.
+She became entangled in this rope.  The rope also fouled one of
+the propellers of the RHIB.  The diver realized that she was
+being pulled towards the boat.  One of the propellers was
+rotating although it was believed to have been out of gear.  She
+shouted to the cox and the engines were stopped.  The propeller
+struck her leg and she felt water enter her suit.  Other divers
+helped her to free herself from the rope and she was recovered
+into the boat.  Her leg was found to have been badly bruised and
+there was damage to her drysuit, a torch, and a marker buoy
+that had been in a leg pocket of the suit.
+May 2000 00/310
+An accident during a wreck dive resulted in a diver severing part
+of his finger. He and his finger were transferred to hospital by
+ambulance.  (Coastguard report).
+May 2000 00/138
+A trainee undertook a dive to 11m during which he was helped
+to resolve a mask clearing problem.  Back at the surface he
+complained of discharge from his ear, and when he attempted to
+clear his ears air could be heard coming from the ear.  He
+sought medical advice and a ruptured eardrum was diagnosed.
+May 2000 00/436
+Lifeboat launched to assist diver with illness.  Two persons
+brought in.  (RNLI report)
+May 2000 00/235
+A trainee diver was conducting an 18m dive in a hired semi-
+drysuit.  She became cold and signaled that she wanted to
+ascend.  She later reported that she had developed a severe
+headache and felt unable to breathe.  A delayed SMB was
+deployed and a 4 min ascent was made.  At the surface this
+diver was distressed, spat out her regulator and was sick.  She
+was recovered into the boat and taken ashore.  Two medically
+trained personnel examined her and hypothermia was
+diagnosed.  She recovered after a warm shower.
+June 2000 00/189
+During a descent a diver experienced problems with his ears.  At
+
+NDC Diving Incidents Report - 2000
+20 ©BS-AC - 2000
+15m he was unable to descend further and after 20 mins the
+dive was terminated.  At the surface the diver experienced
+problems keeping buoyant and called for assistance.  He was
+found to be wearing an 11kg weightbelt and the mouthpiece of
+his alternative air source was not correctly attached.
+June 2000 00/152
+A diver rolled into the water from his boat but struck his head
+(possibly on the boat's stabilizer or propeller).  The diver was
+taken to hospital by helicopter and ambulance.  (Coastguard
+report)
+June 2000 00/190
+A diver was at 17m, 10 mins into the dive, when she was sick.
+This caused her to panic.  Her buddy started to help but their
+instructor brought her to the surface.  The last 3m of the ascent
+was rapid.  At the surface she continued to be sick and there
+were signs of blood in her vomit.  She was taken by ambulance
+to hospital and retained overnight.  It was suggested that fish
+eaten the night before may have been responsible for the
+condition.
+June 2000 00/441
+Lifeboat launched to assist diver with illness. (RNLI report)
+June 2000 00/170
+A diver had attended a lecture during which she felt
+uncomfortable as a result of high air temperature and the
+brightness of the light from an overhead projector.  Later she
+was carrying diving equipment along the side of a swimming
+pool when she started to fit.  She was given first aid treatment.
+The fit lasted for 3 mins.  The casualty was reported to have
+suffered fits previously although not an epileptic.
+July 2000 00/447
+Lifeboat launched to assist diver with illness.  Dive boat brought
+in, in adverse conditions.  (RNLI report)
+July 2000 00/197
+Two divers completed a dive to 36m for a duration of 26 mins.
+After the dive one of the pair experienced 'pins and needles' in
+his right wrist, then, 5 mins later, in his right knee and foot.  1
+hour later his wrist had recovered but he still had a problem with
+his knee and foot, and he sought medical advice.  He was
+checked for symptoms of DCI but none were found.  The
+symptoms resolved.
+July 2000 00/359
+A dive RHIB reported hitting a large wave and a
+diver/crewmember had fallen and struck the transom causing
+injury (including some lost teeth). An ambulance met them once
+alongside and conveyed the casualty to hospital. The speed of
+the RHIB at the time of the incident is unknown; the wind was
+force 4.  (Coastguard report).
+July 2000 00/362
+A dive to 31m resulted in a ruptured eardrum and a trip to
+hospital by ambulance. This diver’s profile was believed to be
+normal.  (Coastguard report).
+July 2000 00/364
+A diver completed a normal 15m dive for 45 mins. On surfacing
+he complained of chest pain and aching to the top of the arms.
+He was airlifted to a hyperbaric unit, but was diagnosed as
+suffering from a mild heart attack.  (Coastguard report)
+July 2000 00/201
+A diver completed a dive to 10m for 32 mins followed by a dive
+to 7m for 10 mins.  After the second dive he was sick and had
+no recollection of the dive.  There were no other apparent
+abnormalities.  He was advised to contact his doctor.
+July 2000 00/177
+An instructor completed a training dive to 15m for 34 mins.
+Afterwards he suffered a headache.  After an interval of 3 hours
+he dived again to 12m for 21 mins, with a 1 min stop at 6m.
+After the second dive he complained of headache and nausea.
+He was placed on oxygen, given fluids, and medical advice was
+sought.  He was taken to a recompression facility where he was
+examined.  It was concluded that he was not suffering from DCI.
+His condition slowly improved and he planned to return for a
+final check up the following day.
+July 2000 00/176
+A trainee complained of a painful left ear following a sheltered
+water lesson to practice assisted ascent and controlled buoyant
+lift techniques.  She was examined by a doctor who referred her
+to an ENT specialist.  The final diagnosis by the specialist was a
+ruptured eardrum.
+July 2000 00/204
+20 mins into a dive to 21m a diver felt sick and aborted the dive.
+15 mins later, having left the water, he was sick.  He had
+completed three dives to 6m the day before.  He was given
+oxygen.  The problem was not believed to be diving related.
+July 2000 00/376
+As 2 divers entered the water backwards off an RHIB they
+clashed heads. One diver was later taken to hospital suffering
+from suspected concussion.  (Coastguard report).
+August 2000 00/381
+A diver surfaced from a 30m dive with a nosebleed and
+generally feeling unwell. Coastguard obtained medical advice.
+No evacuation was necessary but the casualty was closely
+monitored.  (Coastguard report).
+August 2000 00/386
+A dive to 22m for 30 mins led to a severe headache. Coastguard
+obtained medical advice. Oxygen was administered but
+evacuation to a hyperbaric unit was not considered necessary.
+(Coastguard report).
+August 2000 00/229
+A diver dived to 6m where he experienced vertigo and aborted
+the dive.  After the dive he was sick and felt unwell.  He felt dizzy
+and had some pain in his ear.  He was advised to seek medical
+opinion.
+August 2000 00/398
+Divers had been practicing rescue drills and had a 'yo-yo' dive
+profile. One surfaced with a severe headache and vomiting. He
+was taken to hospital by ambulance.  (Coastguard report).
+September 2000 00/408
+A call to assist one diver in pain with breathing difficulties turned
+into a group of 4. They were all taken to hospital, but none
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 21
+needed hyperbaric treatment.  (Coastguard report).
+September 2000 00/248
+A diver completed a number of dives, the last of which was to
+32m for 56 mins with 8 mins of decompression stops.  Later that
+evening he had a tight feeling in his stomach and was sick.  The
+following morning he felt no better and sought medical advice.
+Food poisoning was suspected but the casualty was given a
+precautionary recompression treatment.  This did not resolve his
+symptoms.
+September 2000 00/416
+A 148m wreck dive resulted in this diver being taken to hospital
+suffering from reported symptoms of near drowning.
+(Coastguard report).
+
+NDC Diving Incidents Report -2000
+22 ©BS-AC - 2000
+Boating & Surface Incidents
+October 1999 00/255
+A dive RHIB with 4 POB broke down 12 miles south of
+Stornoway. It was located and towed to Stornoway by the RNLI
+lifeboat.  (Coastguard report).
+October 1999 00/257
+A dive boat became swamped, due to overloading, and a red
+flare was fired. 2 divers were sub-surface at the time. A local
+vessel recovered the dive boat and 5 occupants, whilst the 2 sub
+surface divers were recovered by another diving boat. I have
+recorded an overloaded dive boat as dangerous practice.
+(Coastguard & RNLI report)
+October 1999 00/420
+Lifeboat assisted in the search for missing diver(s).  (RNLI
+report)
+October 1999 00/421
+Lifeboat launched to assist dive boat with steering problems.
+Craft towed in.  (RNLI report)
+October 1999 00/452
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+October 1999 00/261
+A mobile phone call to Coastguard reported 3 divers some 1.25
+hours overdue from a dive. They were found 2 miles from the
+dive site by searching boats and a RNLI lifeboat. These divers
+were reported FAR TOO LATE.  (Coastguard & RNLI report)
+October 1999 00/422
+Two lifeboats launched to assist dive boat with engine problems
+and missing diver(s).  Three people landed and craft escorted in.
+(RNLI report)
+October 1999 00/263
+A dive vessel suffered transmission failure with 5 divers down.
+All divers were recovered by lifeboat which then towed the dive
+vessel into port.  (Coastguard & RNLI report)
+October 1999 00/264
+A dive RHIB  with 4 POB, hit an underwater object and ripped
+the bow section off. A Mayday was broadcast and the vessel
+was recovered by a lifeboat. Classed as 'other'.  (Coastguard
+report).
+November 1999 00/024
+Three divers completed a dive to 36m for 33 mins.  They
+launched a delayed SMB and made their ascent.  The cox in
+their cover boat was unable to start the engine, and the boat
+was carried away from the divers.  The divers surfaced, swam to
+a navigational buoy and hung onto it.  The cox alerted the
+Coastguard.  A lifeboat and a military police boat came to their
+assistance.  The divers were recovered into their boat and one
+of these divers managed to restart the engine.  They were
+escorted back to shore by the lifeboat.
+November 1999 00/040
+Six divers in a RHIB were returning from a dive when the boat
+was swamped by a wave.  The boat was bailed out and the
+engine restarted.  After a few minutes the engine stopped
+running and could not be restarted.  They alerted the
+Coastguard and a lifeboat was launched to assist them.  The
+boat was towed ashore.  It was subsequently found that water
+had entered the fuel tanks.
+November 1999 00/036
+With three divers in the water the throttle of an RHIB became
+jammed and the cox was thrown into the water.  He fired a flare
+which was seen by two fishing boats.  One of the fishing boats
+recovered the cox.  The Coastguard was alerted and the cox
+was airlifted to hospital suffering from hypothermia.  The three
+divers were recovered by another fishing boat and returned to
+their RHIB.  The divers were escorted back to the shore by a
+lifeboat.  (Coastguard & RNLI report)
+November 1999 00/266
+A dive boat with 6 POB reported engine failure. It was towed in
+by a RNLI Lifeboat.  (Coastguard report).
+November 1999 00/423
+Lifeboat assisted in the search for missing diver(s), others
+coped.  (RNLI report)
+November 1999 00/039
+A trainee was practicing picking up a buoy at slow speed when
+the RHIB's propeller struck a sand bar.  This resulted in damage
+to the propeller.
+Analysis of boating & surface incidents
+0 10 20 30 40 50 60
+Bad seamanship
+Boat problems
+Lost divers
+Engine problems
+December 1999 00/268
+The public reported a dive vessel as sinking in adverse weather
+conditions. It transpired that this RHIB, plus 2 others, were
+carrying out diving 'frolics' and were in no danger.  (Coastguard
+& RNLI report)
+January 2000 00/270
+A diver, with no surface detection aids, lost contact with his boat
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 23
+and drifted on the surface for 12 miles before being found by a
+RNLI Lifeboat.  (Coastguard report).
+January 2000 00/271
+A dive RHIB, with 2 POB, suffered engine failure and was towed
+into port by another local boat.  (Coastguard report).
+January 2000 00/069
+Two divers planned a dive to 40m.  They planned to launch a
+delayed SMB once they reached the seabed and instructed the
+boat skipper to follow it.  They stated that they would have a
+maximum dive time of 1 hour, and that they would drift to the
+south.  At the end of their dive they completed 20 mins
+decompression.  On surfacing they could see the boat in the
+distance but could not attract its attention.  They were carried
+out of sight around a headland.  They activated an EPIRB and
+inflated three other delayed SMBs that they were carrying.  After
+a wait of 3 hours 45 mins they were spotted by a searching
+aircraft and picked up by a lifeboat.  Their boat's skipper had
+waited 3 hours before raising the alarm.  Their SMB had not
+remained at the surface and the skipper had lost sight of them.
+The EPIRB did not
+February 2000 00/424
+Two lifeboats launched to assist dive boat with engine problems
+and missing diver(s).  Three people landed and craft escorted in.
+(RNLI report)
+February 2000 00/067
+On their way to a dive site, divers noticed another RHIB in
+difficulties.  They went to their assistance and found that their
+engine had failed.  They had an auxiliary engine but this would
+not work either.  They took the boat in tow to bring them back to
+shore.  On the way an RNLI boat came alongside for a while.
+Once ashore they were met by the Coastguard.
+March 2000 00/275
+A dive boat with 4 POB suffered engine failure and was towed
+into port by another local dive boat. (Coastguard report)
+March 2000 00/072
+Two divers entered the water for a dive to 14m.  The dive boat
+lost contact with the divers' bubbles and the Coastguard was
+alerted.  Two helicopters, two lifeboats and two other vessels
+joined the search.  The divers were found at the surface 2 hours
+later.  No subsequent ill effects were reported.  (Coastguard &
+RNLI report)
+March 2000 00/280
+Two divers drifted on the surface for a mile after their surface
+marker buoy failed and their dive support boat lost sight of them.
+They were rescued by RAF helicopter and transferred to hospital
+suffering from hypothermia.  (Coastguard report)
+April 2000 00/286
+A dive boat broke down with one diver in the water. A local
+fishing vessel recovered the diver and towed the dive boat to
+port.  (Coastguard & RNLI report)
+April 2000 00/097
+The engine of an RHIB failed whilst the passengers were
+searching for a dive site.  The Coastguard was alerted and the
+boat was anchored.  A lifeboat towed the craft back to the shore.
+April 2000 00/294
+A 999 call from a member of the public reporting divers in
+distress. They had become separated from their dive boat,
+which eventually picked them up.  (Coastguard report).
+April 2000 00/299
+A dive boat with 6 persons on board broke down and was towed
+in by a RNLI lifeboat.  (Coastguard report).
+April 2000 00/300
+A member of the public rang 999 to report 2 divers in difficulties.
+Both were recovered by the inshore lifeboat. The shore divers
+had been swept out to sea by the strong tide.  (Coastguard &
+RNLI report)
+April 2000 00/301
+A tender to a dive vessel with 3 divers onboard capsized in a
+heavy swell.  All persons were picked up from the water by
+another vessel.  (Coastguard report).
+April 2000 00/425
+Lifeboat launched to assist dive boat with steering problems.
+Craft towed in.  (RNLI report)
+April 2000 00/426
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+April 2000 00/305
+A RHIB reported 2 divers lost, and boat was unsure of its
+position. Divers were eventually found once position was
+established.  (Coastguard report).
+April 2000 00/304
+Two shore divers got into difficulty after being swept out to sea
+in a strong tide. Both were recovered by a passing local vessel.
+(Coastguard & RNLI report)
+April 2000 00/427
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+May 2000 00/309
+A dive boat, with no communication equipment, raised the alarm
+via a passing boat that they had lost two divers following a drift
+dive. Following a surface search, the divers were located by their
+own RHIB.  (Coastguard & RNLI report)
+May 2000 00/429
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+May 2000 00/430
+Two lifeboats assisted in the search for missing diver(s), others
+coped.  (RNLI report)
+May 2000 00/431
+Lifeboat assisted in the search for missing diver(s).  Others
+coped.  (RNLI report)
+
+NDC Diving Incidents Report -2000
+24 ©BS-AC - 2000
+May 2000 00/433
+Lifeboat launched to assist dive boat that was out of fuel.  Craft
+and 5 crew brought in.  (RNLI report)
+May 2000 00/432
+Lifeboat launched to assist swamped dive boat.  Craft and 6
+crew brought in.  (RNLI report)
+May 2000 00/144
+Two divers had completed a 25 min dive to 15m and were
+conducting a 1 min stop at 6m under a delayed SMB.  An RHIB
+passed over the SMB and the line was caught in its propeller.
+The diver was dragged upwards for 2m before he released the
+reel.  The SMB was recovered but the reel was lost.  The diver
+suffered no subsequent ill effects.
+May 2000 00/434
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+May 2000 00/437
+Lifeboat launched to assist dive boat with engine problems.
+Craft escorted in.  (RNLI report)
+May 2000 00/438
+Two lifeboats launched to assist dive boat with engine problems
+and missing diver(s).  Three people landed and craft escorted in.
+(RNLI report)
+Boating& surface incident report source analysis
+12
+61
+53
+3
+BSAC Reports (12) Coastguard (61)
+RNLI (53) Newspaper (3)
+May 2000 00/439
+Lifeboat assisted in the search for and recovered two missing
+divers.  (RNLI report)
+May 2000 00/322
+MRSC Brixham was alerted to a dive boat that had broken
+down. The boat was successfully re-started prior to rescue units
+arriving.  (Coastguard report).
+May 2000 00/321
+A search for a missing diver ended when he was recovered by
+another searching dive vessel. The diver was taken ashore by
+lifeboat suffering from the effects of cold.  (Coastguard & RNLI
+report)
+May 2000 00/156
+An RHIB was being used on its third dive trip of the day, having
+been laid up for the winter.  Three pairs of divers entered the
+water and the cox anchored the boat.  Each pair carried an
+SMB.  One diver from the first pair had a drysuit problem and
+the dive was aborted.  The cox buoyed the anchor to go to
+recover them.  15 mins into their dive, one of the second pair
+experienced problems with a stuck open drysuit inflation valve,
+and the dive was aborted.  These divers were also recovered
+into the boat.  The third pair completed their dive and surfaced
+200m from the boat.  The boat engine then stopped and could
+not be restarted.  The third pair swam to the boat.  The boat was
+now drifting, without an anchor.  The divers were unable to
+attract the attention of passing boats and contacted the
+Coastguard by radio.  They had to use a hand held radio as the
+radio on the boat had a seized volume control and would only
+operate on channel 16.  A nearby yacht came to their assistance
+and towed them into harbour.
+June 2000 00/147
+A pair of divers was missing after a dive.  The Coastguard was
+alerted and a helicopter and lifeboat were launched.  The divers
+were located and recovered.  It was then discovered that a
+second pair were also missing, the search was resumed, and
+the second pair were safely recovered.  (Newspaper report only)
+June 2000 00/440
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+June 2000 00/326
+A dive charter boat struck an underwater object and damaged
+the propeller. The 8 divers aboard were transferred to another
+vessel, whilst the dive boat was towed in by a lifeboat.
+(Coastguard & RNLI report)
+June 2000 00/329
+A dive boat flooded its engine whilst changing fuel tanks. Whilst
+temporarily out of action, the crew realized that 2 divers had
+drifted away. The divers were later picked up by a yacht.
+(Coastguard & RNLI report)
+June 2000 00/327
+A dive boat reported one diver 10 mins overdue, but recovered
+the diver just as the helicopter arrived.  (Coastguard report).
+June 2000 00/328
+Following on from the above (00/327), and shortly afterwards,
+this hapless party suffered engine failure in both engines and
+the boat was swamped. 7 persons were rescued by Coastguard
+helicopter whilst one remained on board and was escorted into
+Portland harbour.  (Coastguard report).
+June 2000 00/330
+A dive boat with 4 POB suffered engine failure and was towed
+into port by lifeboat.  (Coastguard report).
+June 2000 00/333
+A RHIB with 8 POB suffered engine failure. It was towed in by
+lifeboat.  (Coastguard & RNLI report)
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 25
+June 2000 00/455
+A hard dive boat was reported to have been driven dangerously
+close to other boats and divers in the water.
+June 2000 00/334
+Three pairs of divers were on a drift dive. Whilst recovering two
+pairs the boat lost sight of the third who drifted off. Following a
+search the two divers were found safe and well.  (Coastguard &
+RNLI report)
+June 2000 00/337
+An element of confusion reigned when a dive boat reported 2
+divers missing. Coastguard units were dispatched to search.
+The lost divers were picked up by another dive boat. Shortly
+afterwards, this hapless bunch reported losing 2 more divers. A
+rescue helicopter was tasked to search this time. Fortunately,
+the same dive boat rescued them again. The tide was reported
+to have been setting at a rate of 2 knots. This lot found out the
+hard way. It’s easier to check the tide tables beforehand.
+(Coastguard & RNLI report)
+June 2000 00/338
+Following on from the above (00/337), another pair of divers
+(from the safe group) were reported lost shortly afterwards. A
+search involving a helicopter, lifeboat and Coastguard teams
+was launched. Both divers were later found safe and well sitting
+on some rocks. Who planned this fiasco?  (Coastguard report).
+June 2000 00/137
+Two divers completed a wreck dive in a depth of 31m.  In an
+increasing current they deployed a delayed SMB to make their
+ascent.  The SMB line became slack, the buoy was not held
+vertically at the surface, and was not seen by the dive boat.  On
+surfacing the divers could not see their boat.  They inflated a
+second delayed SMB and waved a yellow flag.  The boat party
+realized that the divers were missing and this boat and two
+others began a search.  The divers were found after 45 mins at
+the surface and safely recovered.
+June 2000 00/339
+A dive boat with 4 POB suffered engine failure. They were towed
+11 miles into port by a lifeboat.  (Coastguard report).
+June 2000 00/341
+Two divers were reported as being missing. After a search
+involving a RNLI inshore lifeboat, Coastguards and other
+vessels, the divers were found safe and well by their dive boat.
+(Coastguard & RNLI report)
+June 2000 00/442
+Lifeboat launched to assist dive boat with engine problems.
+(RNLI report)
+June 2000 00/342
+A search was initiated for an overdue shore diver. He was
+located safe ashore but required medical treatment by air
+ambulance staff for abdominal cramps.  (Coastguard report).
+June 2000 00/444
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+June 2000 00/344
+A diver surfaced about 0.75 mile from his dive boat. He was
+found safe and well after a short search.  (Coastguard & RNLI
+report)
+June 2000 00/345
+A dive RHIB with 8 POB capsized at the entrance to a harbour.
+7 persons made the shore unaided whilst a RNLI lifeboat
+rescued the remaining person and gave medical assistance.
+(Coastguard report).
+June 2000 00/346
+A dive boat ran out of fuel and was towed into port by an inshore
+lifeboat. There were 9 POB.  (Coastguard report).
+June 2000 00/348
+A dive boat with 9 POB suffered total engine failure. It was
+towed in by an RNLI lifeboat.  (Coastguard & RNLI report)
+July 2000 00/350
+Coastguard began searching for a dive boat reported overdue. It
+transpired that the dive boat had returned safely, but the divers
+had forgotten to inform their shore contact, which quite rightly,
+reported them missing.  (Coastguard report).
+July 2000 00/351
+A dive RHIB with 7 POB suffered engine failure and was towed
+into port.  (Coastguard & RNLI report)
+July 2000 00/160
+Two pairs of divers entered the water from an RHIB to conduct a
+drift dive in a depth of 25m.  The plan was that they would each
+launch a delayed SMB 5 mins into the dive.  Unknown to the
+boat cover one pair were dropped in a 1 to 2 knot current as
+anticipated, but the other pair found themselves in still water.
+The boat followed the moving buoy.  The pair in still water made
+their way towards the shore but the boat party did not spot their
+buoy.  The drift divers surfaced and were recovered after a 30
+min dive.  A search was then made for the missing divers.  The
+Coastguard was alerted and a lifeboat, a helicopter and other
+local boats conducted a search.  The RHIB was low on fuel and
+before returning to harbour went to the furthest point down
+current and made a final search along the shore.  They found
+the missing divers, safe and well, on shore, only 150m from their
+entry point.  The search was called off and the divers were
+checked by the helicopter crew and returned to the harbour.
+July 2000 00/352
+A dive boat with 6 POB reported engine failure. The dive boat
+was towed into port by an RNLI inshore lifeboat.  (Coastguard
+report).
+July 2000 00/163
+Two pairs of divers entered the water to conduct a dive.  One
+pair were recovered after their dive, but the other pair were not
+located.  The Coastguard was alerted and three lifeboats and a
+helicopter were launched to search.  The divers were found 70
+mins after the emergency call by the helicopter and safely
+returned to shore.  The divers had surfaced 100m from their
+boat but were not seen.  They were finally recovered two and a
+half miles from their entry point.
+July 2000 00/446
+Lifeboat launched to assist dive boat that was out of fuel.  Craft
+towed in.  (RNLI report)
+
+NDC Diving Incidents Report -2000
+26 ©BS-AC - 2000
+July 2000 00/358
+Coastguard began to search for an overdue dive vessel; after a
+short while it became clear that the divers had returned safely,
+but had forgotten to make a scheduled call on their return.
+(Coastguard report).
+July 2000 00/448
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+July 2000 00/449
+Two lifeboats assisted in the search for missing diver(s).  Others
+coped.  (RNLI report)
+July 2000 00/450
+Lifeboat launched to assist dive boat with engine problems.
+Craft towed in.  (RNLI report)
+July 2000 00/366
+A diver surfaced away from his dive vessel and drifted for 55
+mins before being located by a searching fishing vessel, approx
+1 mile from the dive site.  (Coastguard report).
+July 2000 00/372
+A dive boat with 7 POB suffered engine failure and was towed
+into port by another dive vessel. A lifeboat also attended.
+(Coastguard report).
+July 2000 00/374
+An RHIB reported engine failure and was unable to recover 2
+divers. Both divers and RHIB recovered by inshore lifeboat.
+(Coastguard & RNLI report)
+July 2000 00/451
+Lifeboat launched to assist dive boat with engine problems.
+Others coped.  (RNLI report)
+July 2000 00/377
+A RHIB called for assistance to locate 3 missing divers on a drift
+dive. They were located and rescued by an inshore lifeboat.
+(Coastguard & RNLI report)
+August 2000 00/382
+A hazardous incident report was generated after a dive charter
+boat, after hurling abuse and profanities, proceeded to run over
+a tender being towed astern of a private yacht, who accidentally
+got too close to a SMB. No 'A' flag was reported as being seen.
+Clearly an ambassador for the sport of diving!  A deliberate
+close quarters situation must be classed as dangerous practice.
+(Coastguard report).
+August 2000 00/383
+A dive charter vessel with 15 POB reported she was aground
+and taking water. The divers were taken off by lifeboat, and the
+stricken vessel was pumped out and later re-floated. Classed as
+'other'.  (Coastguard report).
+August 2000 00/385
+A dive boat with 4 POB reported engine failure. It was towed into
+port by a passing yacht.  (Coastguard report).
+August 2000 00/389
+A dive RHIB suffered engine failure with 2 divers down. Both
+divers were recovered by lifeboat and the RHIB towed to port.
+(Coastguard report).
+August 2000 00/396
+A dive RHIB with gearbox failure was towed into port by a local
+vessel.  (Coastguard report).
+August 2000 00/404
+A pair of divers drifted away from their support vessel. They
+were located by another vessel in the area.  (Coastguard report).
+August 2000 00/403
+A dive vessel with 5 POB reported engine failure. A local angling
+boat towed it in.  (Coastguard report).
+September 2000 00/240
+Two divers were reported missing and a search was initiated
+including a helicopter.  They were later found by their boat and
+safely recovered.  (Newspaper report only).
+September 2000 00/412
+A diver was reported missing, but was later found safe and well
+on the opposite side of the Loch.  (Coastguard report).
+September 2000 00/413
+A dive vessel broke down with 3 divers sub-surface on a
+shotline. A lifeboat recovered the 3 divers and towed the dive
+vessel into harbour.  (Coastguard report).
+September 2000 00/415
+A shore diver was swept away by a strong tide. He was spotted
+by a passing boat and landed safely ashore.  (Coastguard
+report).
+September 2000 00/244
+An RHIB with four divers and a cox onboard suffered an engine
+failure and anchored just off a lee shore.  At one point they had
+to use the boat's paddles to relay the anchor which was
+dragging.  The Coastguard issued a 'Pan Pan' call.  A passing
+pleasure boat towed them safely to harbour.
+September 2000 00/247
+A group of divers set off to dive in two inflatable boats.  At the
+dive site four divers entered the water.  The engine of one of the
+boats then failed.  The cox indicated that the other boat should
+cover the divers and he then anchored the boat.  The engine of
+the second boat then failed.  The Coastguard was alerted and a
+lifeboat and other craft were tasked to assist.  The engine of the
+second boat was then restarted and two of the divers were
+recovered.  The other two were picked up by a fishing boat and
+were believed, for a while, to be missing.  The boat with the
+failed engine was towed back into harbour and all divers were
+safely recovered.
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 27
+Ascents
+October 1999 00/254
+Two divers presented themselves at a doctor’s surgery
+reporting missing stops.  No symptoms were apparent at the
+time.  Both were assessed by the doctor.  This incident is not
+related to the previous one (00/253).  (Coastguard report).
+October 1999 00/253
+A diver surfaced and reported missing 14 mins of stops. He
+was taken to hospital by ambulance for observation.
+(Coastguard report).
+October 1999 00/048
+Two divers completed a dive to 35m for 34 mins.  During their
+ascent they slowed down at 12m in preparation for a
+decompression stop.  At this point one of the pair lost control of
+his buoyancy and started to ascend.  His buddy attempted to
+slow the ascent but was unsuccessful.  At 4m the buddy
+stopped his attempts and re-descended to complete his stops.
+The buoyant diver rose to the surface and gave the emergency
+signal.  He was recovered into the boat.  His computer showed
+13 mins missed decompression.  He showed no signs of DCI
+but refrained from further diving.  At the end of the following day
+he developed a back ache.  He sought medical advice and
+received decompression treatment, there was no change to the
+back ache and it was concluded that no DCI had occurred.
+October 1999 00/020
+Three divers completed a dive to 34m for 46 mins.  One of the
+divers was under weighted and made a slightly fast ascent.  His
+computer registered an ascent warning.  2 hours 9 mins later
+they dived again, this time to 24m.  During their ascent one of
+the three became tangled in fishing line and they descended to
+27m whilst this problem was resolved.  They re-ascended and,
+at 10m, the diver who had made the earlier fast ascent felt air
+in the legs of his drysuit.  He attempted to clear this air by
+turning a somersault but again found that he was under
+weighted and made a second fast ascent to the surface.  His
+total dive time on this second dive had been 31 mins.  On
+reaching the surface he stopped to check that he was alright
+and then swam ashore.   His two buddies made a normal
+ascent.  Once ashore he noticed that part of his left hand was
+numb.  He felt that this could have been due to a tight wrist
+seal.  He removed his drysuit and placed himself on oxygen.
+The numbness resolved after a few minutes.  No subsequent ill
+effects were experienced.
+October 1999 00/026
+Two divers completed a 18 mins dive to a maximum of 32m.
+They started their ascent when both computers were showing 1
+min of no-stop time remaining.  During the ascent one of the
+pair was unable to dump air from the wrist dump of his drysuit
+and, despite his buddy trying to slow the ascent, they made a
+rapid ascent to the surface.  At the surface both computers
+showed missed stops.  The divers were recovered into their
+boat.  One reported an ache in his knee and the other tingling
+fingers of one hand.  They were placed on oxygen.  The
+Coastguard was alerted and a lifeboat that was nearby on
+exercise came to assist.
+The divers were taken ashore by lifeboat and then flown by
+helicopter to a recompression facility where they received
+treatment.  It was concluded that neither diver had suffered
+from DCI, and that their symptoms were from other factors.  It
+was subsequently determined that the diver's undersuit, which
+had a smooth surface, had sealed the wrist dump valve from
+the inside, and that a mesh section, that had been fitted to the
+undersuit to allow air to escape, did not align with the valve.
+November 1999 00/044
+A diver completed a dive to 35m.  During the ascent he lost
+buoyancy control at 6m and came to the surface missing
+planned stops.  His total dive time was 21 mins.  No
+subsequent ill effects were experienced.
+November 1999 00/265
+A backside first, rapid ascent, led to a diver surfacing with
+lacerated hands, nausea and later, shock. He was transferred
+to a hyperbaric unit for treatment.  (Coastguard report).
+November 1999 00/062
+After a 25 min dive to a maximum depth of 23m a diver lost
+control of his buoyancy and made a rapid ascent to the surface.
+No subsequent ill effects were experienced.
+December 1999 00/267
+A dive to 29m for 9 minutes and a fast ascent from 15m led to
+a diver being brought ashore and taken by ambulance to a
+hyperbaric unit for checks. He was pronounced fit and well.
+(Coastguard report).
+January 2000 00/052
+Two divers conducted a dive to 32m.   One of the divers lost his
+weightbelt and they made a faster than normal ascent to the
+surface.  The total dive time was 18 mins and no stops were
+conducted.  No subsequent ill effects were experienced.
+January 2000 00/057
+After a dive to 18m for 20 mins two divers started their ascent.
+One of the pair accidentally let air into his BCD, instead of
+releasing it.  As a result he made a fast ascent to the surface.
+No ill effects were reported.
+February 2000 00/060
+A diver was making her first dive in a drysuit.  12 mins into the
+dive, at a depth of 21m, she experienced problems controlling
+the dump valve and made a fast buoyant ascent to the surface.
+No subsequent ill effects were experienced.
+February 2000 00/073
+A trainee and an instructor were 6 mins into a dive at a depth of
+21m.  The trainee experienced a problem with his regulator
+mouthpiece and panicked.  He made a fast ascent to the
+surface.  No subsequent ill effects were reported.
+February 2000 00/088
+A diver under training, in a drysuit, made a dive to 15m.  6 mins
+into the dive he lost control at a depth of 3m and ascended feet
+first to the surface.  No subsequent ill effects were reported.
+February 2000 00/087
+
+NDC Diving Incidents Report -2000
+28 ©BS-AC - 2000
+A diver conducted a dive to 35m for a duration of 15 mins.  He
+was using a different undersuit and experienced buoyancy
+problems which resulted in a fast ascent to the surface.  No
+subsequent ill effects were reported.
+February 2000 00/075
+9 mins into a dive, at a depth of 24m, one of a pair of divers
+panicked and made a rapid ascent to the surface.  No
+subsequent ill effects were reported
+April 2000 00/181
+A diver commenced her first dive of the year.  Once on the
+seabed, at a depth of 14m, she allowed air into her BCD to
+adjust her buoyancy.  The inflation valve stuck in and the diver
+made an uncontrolled ascent to the surface.  Total dive time
+was 4 mins.  No subsequent ill effects were experienced.  The
+diver made no further dives that day.
+April 2000 00/112
+Two divers completed a dive to a maximum depth of 36m for a
+total duration of 41 mins.  At 20m they lost control of their
+buoyancy and made a rapid ascent to the surface, missing
+decompression stops.  One of the pair pulled himself back
+down to 6m and conducted 10 mins of decompression stops.
+No subsequent ill effects were reported.
+April 2000 00/133
+A diver completed a wreck dive to a depth of 25m.  During the
+ascent, at a depth of 18m, he lost control of his buoyancy and
+made a rapid ascent to the surface in less than 1 min.  The
+dive duration was 26 mins.  The diver was placed on nitrox 33
+for 20 mins.  No symptoms were experienced and no
+subsequent ill effects were reported.
+April 2000 00/111
+Three divers dived to 36m for a duration of 21 mins.  At 18m
+they lost control of their buoyancy and all made a rapid ascent
+to the surface missing a 3 min stop at 6m.  No subsequent ill
+effects were experienced.
+April 2000 00/183
+Two divers were ascending from a dive to 20m.  At 9m one of
+the pair lost control of his buoyancy and started to ascend.  He
+took hold of the SMB line and both divers were carried to the
+surface.  The buoyant diver had been trying to ascend in a
+'prone' position, as he had mis-understood a conversation on
+decompression and this resulted in air migrating throughout his
+suit which he could not dump.  Both divers were placed on
+oxygen and neither experienced
+April 2000 00/094
+Two divers completed a dive to a maximum depth of 28m for a
+total duration of 40 mins.  They deployed a delayed SMB prior
+to surfacing and made a normal ascent to 5m.  At this point one
+of the pair felt herself becoming buoyant and was unable to
+release air from her drysuit through the dump valve.  She was
+carried to the surface missing an indicated 8 mins stops at 3m.
+Her buddy became tangled in the SMB line and was also taken
+to the surface.  The divers got back into their boat and were
+placed on oxygen for a total of 1 hour.  They took hot drinks.
+Neither diver felt any symptoms.  48 hours later they conducted
+a shallow no stop dive.  No subsequent ill effects were
+reported.
+May 2000 00/109
+Two divers were ascending from a depth of 35m.  Buoyancy
+control was lost at 21m and they made a rapid ascent to the
+surface.  Total dive duration 9 mins.  No subsequent ill effects
+were reported.
+May 2000 00/103
+Two divers made a dive to 15m.  At this depth they found very
+low visibility and decided to abort the dive.  They deployed a
+delayed SMB.  One of the pair found himself to be too buoyant
+and, despite his buddy's assistance, he made a rapid ascent
+from 10m to the surface.  The buddy ascended normally.  At
+the surface the diver who had made the rapid ascent
+complained of an ear pain.  Subsequent medical examination
+revealed a small perforation of the right eardrum.   This diver
+commented that he had felt dizzy and disorientated during his
+descent on this dive.  A full recovery was reported.
+May 2000 00/318
+A diver made a fast ascent from 39m after becoming entangled
+in a buoy line, missing decompression stops. The diver did not
+show signs of DCI but was taken to a hyperbaric unit for
+observations. He was released after a few hours none the
+worst for his experience.  (Coastguard report).
+May 2000 00/319
+A diver made a fast ascent from 40m. He was transferred to a
+hyperbaric unit.  (Coastguard & RNLI report)
+May 2000 00/324
+Two divers surfaced after missing a 13 minute stop at 6m. On
+surfacing one suffered a bleeding nose. Both were given
+oxygen and taken to a hyperbaric unit.  (Coastguard report).
+June 2000 00/187
+Two divers made a dive down an underwater cliff to a depth of
+40m.  They had been at this depth for about 5 mins when their
+computers indicated the need for decompression stops.  They
+began their ascent.  At 20m one of the computers indicated the
+need for 4 mins at 3m.  At 15m one of the pair switched to
+nitrox 30.  The other diver was experiencing problems with
+excessive buoyancy and his buddy took hold of him.  Despite
+the buddy dumping air they were both carried to the surface.  At
+the surface one of the computers was clear and the other
+indicated 1 min of missed decompression stop.  One diver
+breathed oxygen and the other breathed nitrox 30.  After 30
+mins both divers reverted to breathing air.  No symptoms were
+experienced.  The buoyant diver was using a new drysuit that
+he had only used three times before.
+June 2000 00/188
+A diver was using hired diving equipment.  At 20m he got into
+difficulties with his mask and felt that he couldn't breathe.  He
+made a fast ascent to the surface with his buddy.  No
+subsequent ill effects were experienced.
+June 2000 00/169
+Two divers conducted a wreck dive at a maximum depth of
+34m.  They planned to ascend using a delayed SMB.  Their
+planned dive time was 30 mins with 7 mins  of decompression
+stops.  At 28 mins they started their ascent.  They spotted what
+they though was the shotline and decided to ascend up this
+line.  However this was another length of floating line that
+stopped at 14m.  They deployed their delayed SMB but, in
+doing so, they sank back down to the wreck.  They re-
+ascended and attempted to make a stop at 9m.  After 44 mins
+they were at 6m and one of the divers was buoyant.  They were
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 29
+unable to maintain depth and arrived at the surface.  The SMB
+line was tangled with the shotline some distance away and they
+had to abandon the SMB reel and line as the boat approached,
+to prevent a foul with the boat's propeller.  They were recovered
+into the boat and discovered that they had missed 13 mins of
+decompression stops.  Both divers were placed on oxygen and
+medical advice was sought by mobile phone.  The divers were
+advised to attend a recompression facility and they both
+underwent precautionary recompression.  Neither diver showed
+any symptoms.
+June 2000 00/162
+Two divers were conducting a wreck dive at a depth of 18m
+when the weightbelt of one of the pair worked loose.  She
+removed the belt to readjust it but had difficulty due to thick
+gloves.  The weights slid off the belt.  Her buddy was able to
+prevent an immediate buoyant ascent.  The pair attempted to
+make their way back to the shotline, but the buoyant diver lost
+control and made a rapid ascent to the surface.  She was
+recovered into the boat and placed on oxygen.  No symptoms
+were experienced and no further action was taken.
+June 2000 00/191
+Two divers had been to 18m and came back up to 6m.  At this
+point, one of the divers panicked, lost control of her buoyancy,
+and made a rapid ascent to the surface.  Dive duration 24 mins.
+No subsequent ill effects were experienced.
+June 2000 00/159
+Two divers completed a dive to 27m and started their ascent
+after 29 mins.  At 20m one of the pair experienced difficulties
+dumping air from his cuff dump.  The other diver indicated that
+he should hold the SMB line.  The first diver was still too
+buoyant and the second diver dumped air to slow the ascent.
+The pair ascended from 17 to 7m in 20 seconds.  At this point
+the buoyant diver let go of the line and rose to the surface.  The
+second diver started to descend, regained control and
+ascended to 6m where he completed a 2 min stop.  Both divers
+were recovered into the boat and the buoyant diver was placed
+on oxygen although he was showing no symptoms.  The boat
+returned to shore and the Coastguard was notified.  The divers
+were airlifted to hospital from where they were later released
+with no ill effects.
+June 2000 00/340
+A safety line snagging at 37m led this diver to have an
+'explosive' ascent. He was airlifted to hospital.  (Coastguard
+report).
+July 2000 00/349
+Following an abnormal ascent and missed stops, two divers
+were given oxygen aboard their boat and airlifted to a
+hyperbaric unit for precautionary treatment, although none were
+showing DCI symptoms. Dive was to 43.6m for 18 mins.
+(Coastguard report).
+July 2000 00/355
+A diver ran out of air and made a rapid ascent from a 22m/31
+min dive. On medical advice, the casualty was taken to hospital
+by ambulance.  (Coastguard report).
+July 2000 00/250
+A diver's BCD was burned during the trip to the dive site by a
+torch which had been left on.  This diver borrowed a BCD to
+conduct his dive.  He dived to 34m for 20 mins but became
+buoyant during the dive, as he consumed air, and made a rapid
+ascent to the surface, missing decompression stops.  He was
+placed on oxygen for 20 mins.  No ill effects were experienced.
+July 2000 00/353
+A fast ascent from 15m left a diver anxious. He was given
+oxygen and medical advice was arranged by Coastguard. He
+was advised not to dive for 24 hours.  (Coastguard report).
+July 2000 00/198
+During a dive, at a depth of 29m, a diver panicked.  His buddy
+brought him to the surface.  They made a rapid ascent.  The
+total dive time had been 18 mins.  At the surface the diver who
+had panicked coughed up a little blood and had a slight pain in
+his right elbow.  One hour later his symptoms had resolved.
+July 2000 00/205
+Two divers were conducting a wreck dive to a maximum depth
+of 40m.  At 32m one of the pair signaled that he could not
+locate his contents gauge.  The other diver did not understand
+the signal, believed that there was a problem, and signaled that
+they should abort the dive and ascend.  They started their
+ascent but the diver with the lost gauge was unable to dump air
+from his drysuit and made an uncontrolled, rapid ascent, to 6m.
+Here he managed to regain control and conducted a 1 min
+stop.  The divers were separated and the other diver made a
+normal ascent.  Once back in the boat, the diver who had made
+the rapid ascent was placed on oxygen.  The Coastguard was
+alerted and medical advice was sought.  Continued oxygen
+administration and hospitalization was recommended.  On
+arrival back on shore the diver and buddy were taken by
+ambulance to a helicopter and then flown to hospital.  The diver
+remained on oxygen for 4 hours.  No symptoms were
+experienced and the diver was discharged from hospital.
+July 2000 00/206
+A diver was negatively buoyant at 20m and felt 'stuck to the
+bottom'.  Her buddy assisted her to the surface and a rapid
+ascent occurred.  No subsequent ill effects were experienced.
+July 2000 00/207
+Whilst practicing controlled buoyant lifts a diver became too
+buoyant and made a fast ascent to the surface.  She had been
+unable to vent her drysuit.  The diver was shaken up but
+otherwise unhurt.
+August 2000 00/219
+Two divers had completed a wreck dive to a depth of 30m and
+were ascending the shotline.  At 9m the shotline was released
+from the wreck and the divers were unable to prevent
+themselves being carried to the surface.  At 9m their computers
+indicated that no stops were necessary, however, on leaving
+the water one of the computers indicated that 8 mins at 3m had
+been missed. The dive time had been 23 mins.  No subsequent
+ill effects were experienced.
+August 2000 00/227
+A pair of divers completed a dive to 37m.  They deployed a
+delayed SMB to make their ascent.  During the ascent, at 20m,
+one of the pair lost control of the buoyancy of her drysuit and
+rose quickly to the surface.  Her buddy made a fast ascent to
+9m and then completed a normal ascent.  The buoyant diver
+was recovered into the boat and placed on oxygen.  She
+remained on oxygen for 80 mins and experienced no
+symptoms.  Medical advice was sought by radio.  It is believed
+that a faulty drysuit dump valve was the cause of the incident.
+
+NDC Diving Incidents Report -2000
+30 ©BS-AC - 2000
+No subsequent ill effects were reported.
+August 2000 00/402
+A diver surfaced from a 40m dive but missed 6 mins of stops.
+He then suffered vomiting. He was airlifted to hospital.
+(Coastguard report).
+August 2000 00/234
+Three divers conducted a dive to a maximum depth of 36m.
+One of the group was suffering from seasickness prior to the
+dive.  This diver failed to secure the crotch strap of his BCD.
+The divers began their ascent, deploying a delayed SMB at
+30m.  At around 25m the diver with the loose strap inflated his
+BCD instead of dumping, by mistake.  He lost control of his
+buoyancy and because of the loose strap could not regain
+control.  He was carried to the surface missing decompression
+stops.  The other divers surfaced normally.  The buoyant diver
+was placed on oxygen.  He developed no symptoms of DCI but
+was seasick.  The Coastguard was alerted and the diver
+airlifted to a recompression facility where he received
+treatment.  No subsequent ill effects were reported.
+September 2000 00/405
+A diver made a rapid ascent from a depth of 20m during a 50m
+dive. He had suffered an intake of water into his suit. He was
+close to drowning, but improved after O2 was administered. No
+symptoms of DCI.  (Coastguard report).
+September 2000 00/245
+Two divers undertook a dive to 25m.  At the end of the dive
+they deployed a delayed SMB, but the octopus regulator that
+they had used continued to free flow.  The diver with the free
+flowing regulator took his buddy's alternative air source.  They
+started their ascent but, at 10m, they became tangled in the
+SMB line.  They descended to 17m.  One of the pair used his
+BCD's emergency cylinder to regain buoyancy.  Despite
+dumping air they were then carried quickly to the surface.  Their
+computers did not indicate that stops had been missed.  Both
+divers were placed on oxygen for 20 mins and monitored.  No
+subsequent ill effects were reported.
+September 2000 00/249
+Two divers conducted a wreck dive to a depth of 28m.  They
+started their ascent after 18 mins.  At 23m one of the pair felt
+that he was ascending too fast.  He attempted to dump air from
+both his BCD and his drysuit and his buddy tried to slow the
+ascent.  The buddy could not retain a hold and the buoyant
+diver was carried too quickly to the surface.  He managed to
+slow the ascent a little but reached the surface within 1 min.
+His buddy made a normal ascent and they were recovered into
+the boat.  The buoyant diver had no symptoms but was placed
+on oxygen.  Once ashore he sought medical advice.  No
+symptoms developed and no treatment was given.
+September 2000 00/410
+An elderly diver, who had missed decompression stops, was
+conveyed ashore by his dive vessel and taken to a hyperbaric
+unit by ambulance as a precaution.  (Coastguard report).
+September 2000 00/419
+A 46m dive for 26 mins ended with a fast ascent from 36m. The
+diver was transferred to a hyperbaric unit. Note, the diver's
+equipment was washed ashore the following day.  (Coastguard
+report)
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 31
+Technique
+November 1999 00/041
+A group of three divers completed a night dive to 22m for a
+duration of 24 mins.  Towards the end of the dive, one of the
+group had 50 bar remaining at a depth of 20m.  He showed this
+to the dive leader and signaled that they should ascend.  During
+the ascent this diver became concerned that he would run out of
+air before reaching the surface.  He made a fast ascent to the
+surface and attracted the attention of other divers who were at
+the surface.  The diver was helped from the water.  His buddies
+made a normal ascent.  No ill effects were reported.
+November 1999 00/031
+Two divers were 10 mins into a wreck dive at a depth of 25m.
+They encountered a third, unknown, diver who indicated that he
+had a problem.  This diver had been diving with two others but
+had become separated from them.  He was very buoyant and
+was hanging on to the wreck to prevent himself ascending.  This
+diver had just run into decompression requirements.  The first
+pair tried unsuccessfully to transfer weight to him.  They also
+looked around for some loose piece of wreckage to act as
+weight, but could not find any.  They decided to make
+themselves as heavy as possible, by dumping air, and to hold
+on to the third diver to slow his ascent.  This they did and were
+able to make a safe ascent including a 1 min stop at 6m.  The
+buoyant diver reported that he had a new undersuit and had not
+correctly weighted himself.  One of the pair left the water with a
+headache which was resolved after a few minutes on oxygen.
+The buoyant diver's buddies returned to the surface soon
+afterwards.  No subsequent ill effects were reported.
+January 2000 00/063
+Three divers were at a depth of 18m.  One was struggling to get
+his buoyancy correct and then got into difficulties breathing.  He
+was given an alternative air source but he spat this out.  He was
+panicking and was brought to the surface.  No subsequent ill
+effects were experienced.
+February 2000 00/061
+At a depth of 22m one of a pair of divers lost control of his
+buoyancy and rose to the surface.  He waited for his buddy.
+After a while he decided to re-descend and met his buddy at 3m.
+They re-descended to 20m where they realized that they had
+insufficient air to continue.  They surfaced again.  After one hour
+they sought advice.  They were advised not to dive again for 24
+hours.  No subsequent ill effects were reported.
+February 2000 00/089
+Three divers entered the water intending to conduct some
+training drills which included compass navigation.  They
+descended to 6m and settled onto the quarry floor.  One of the
+three felt uneasy, but he began his compass exercise and swam
+out into water that was 20m deep.  He felt that his weightbelt
+was slipping and was not able to adjust his buoyancy.  He
+signaled to the others that he wished to ascend.  He then started
+to descend quickly.  One of the other two made an ascent but
+the other realized that there was a problem and swam down
+after the descending diver.  He caught him at 16m but was
+unable to put air into the heavy diver's BCD.  He used his own
+suit to make a controlled buoyant lift and brought them both to
+the surface.  No subsequent ill effects were reported.  The heavy
+diver was using borrowed equipment and it is believed that the
+direct feed hose was not the correct one for the BCD.  He was
+also excessively weighted.
+March 2000 00/277
+A shore diver lost her buddy and panicked. Both divers assisted
+ashore by members of the public prior to a lifeboat arriving.
+(Coastguard report).
+April 2000 00/084
+Three divers were 15 mins into a dive at a depth of 20m.  One of
+the group developed a problem with his fin  strap and signaled
+that he was going to ascend.  The other two decided to follow
+him to the surface.  During the ascent, these two became
+separated and one of them started to sink back down.  His
+buddy thought that he was still ascending.  The sinking diver
+dropped back to the bottom and landed on top of a diver from
+another buddy pair.  He was panicking and struggling.  The other
+divers calmed the panicking diver and then attempted to lift him
+to the surface using his drysuit.  However, air was found to be
+leaking from the drysuit feed hose and one of the pair lifted the
+third diver using his own buoyancy.  All were safely recovered
+from the water.  The panicked diver had sustained an injury to
+his ear, but no other ill effects were experienced.
+April 2000 00/113
+A diver was conducting a cold water orientation dive.  7 mins
+into the dive, at a depth of 18m, one of his fins came off and his
+weightbelt slipped.  He panicked and made a rapid ascent to the
+surface.  His buddy went with him.  No subsequent ill effects
+were reported.
+May 2000 00/110
+An instructor and trainee were diving at a depth of 21m.  The
+trainee gave the out of air signal and the instructor gave her his
+alternative air source.  The trainee panicked and made a fast
+ascent to the surface from 10m without a regulator.  Her cylinder
+was subsequently found to contain 100 bar.  No subsequent ill
+effects were experienced.
+June 2000 00/193
+Two divers were descending to a planned depth of 20m.  At 12m
+one of the pair panicked and was brought to the surface by her
+buddy.  They made a slightly faster than normal ascent.  No
+subsequent ill effects were experienced.
+July 2000 00/196
+Two divers were at a depth of 13m when one of them lost a fin.
+He panicked and they made a fast ascent to the surface.  Their
+total dive time was 21 mins.   No subsequent ill effects were
+experienced.
+July 2000 00/200
+Three divers undertook a dive in a depth of 20m.  After 10 mins
+they became separated in low visibility.  Two of the divers
+surfaced but the third did not.  A search was being organized
+when the third diver surfaced safely 11 mins later.
+August 2000 00/210
+Two divers entered the water to dive on a wreck at a depth of
+35m.  Underwater they became separated in low visibility.  One
+of the pair completed a normal dive including decompression
+stops, the other became tangled in some fishing nets that were
+
+NDC Diving Incidents Report -2000
+32 ©BS-AC - 2000
+laying on the wreck.  This diver took some time to free himself
+and he used all of his air, including that in his pony cylinder, in
+getting back to the surface.  He did not deploy a delayed SMB
+as he wished to conserve the air supply.  His total dive duration
+was 64 mins.  This diver's computer indicated missed
+decompression stops.  He was placed on oxygen and the boat
+returned to shore.  The diver had completed a series of 5 dives
+to 30 - 40m over the previous 3 days.  Medical advice was
+sought and it was decided that he should receive precautionary
+recompression treatment.  The Coastguard was alerted and the
+diver was flown by helicopter to a recompression facility where
+he was recompressed.  No symptoms of DCI were present at
+any time.
+August 2000 00/395
+Five shore divers were observed waving for help. On arrival of
+the lifeboat it was discovered that the reason for the distress
+was a lost weightbelt. Her dive buddy escorted her to the shore
+while the other three continued their dive.  (Coastguard report).
+August 2000 00/401
+A shore diver had problems with her buoyancy and inhaled
+water. She was pulled from the water and found not to be
+breathing. First aid was administered. She was airlifted to
+Dorchester Hospital where she made a recovery.  (Coastguard
+report).
+
+NDC Diving Incidents Report - 2000  
+ã BSAC -2000 33
+Equipment
+October 1999 00/006
+Two divers were 17 mins into a dive, at a depth of 36m, when
+the octopus regulator of one of the two went into free flow.
+They ascended using the alternative air source of the other
+diver.  No subsequent ill effects were experienced.
+November 1999 00/033
+Two divers made a descent in a quarry.  At a depth of 27m one
+of the pair indicated a problem with his regulator and switched
+to his octopus regulator.    He still experienced problems and
+accepted the octopus regulator from the dive leader.  They
+started their ascent and at this point the problem regulator
+began to free flow.  The dive leader switched this cylinder off
+and then back on again at 16m.  The dive leader tested the
+previously free flowing regulator and found it to be working
+correctly.  The other diver then switched back to his own
+regulator and they made a safe ascent to the surface.  The
+diver reported that he had felt water in both mouthpieces.
+Examination revealed a small hole in the octopus regulator
+mouthpiece.  The water temperature was recorded as 6 deg C.
+January 2000 00/180
+During a dive, at a depth of 12m, a trainee experienced a
+regulator free flow.  The trainee had not been trained how to
+deal with this and started to ascend rapidly.  The instructor took
+control and, using the instructor's alternative air source, they
+made a controlled ascent.  No subsequent ill effects were
+experienced.
+January 2000 00/053
+Two divers were 3 mins into a dive at a depth of 24m when
+both their regulators began to free flow.  They made a faster
+than normal ascent.  No ill effects were reported.
+January 2000 00/058
+Two divers made a slow descent, down a slope, to a depth of
+20m.  At this point one of the pair started to take in water and
+signaled that she wanted to ascend.  Her buddy brought her to
+the surface.  The ascent was faster than normal.  At the
+surface the diver was distressed, having difficulty breathing and
+coughing.  She was recovered from the water and placed on
+oxygen.  She was taken to hospital and discharged 3 hours
+later.  Subsequent examination of the regulator uncovered a
+small hole in the mouthpiece.
+January 2000 00/055
+An instructor and a trainee were at a depth of 20m.  The
+trainee's regulator began to free flow.  The instructor brought
+the trainee to the surface using his alternative air source.  They
+made a fairly fast ascent.  Their total dive time was 10 mins.
+The water temperature was 4 deg C.   No subsequent ill effects
+were experienced.
+February 2000 00/059
+Two divers were 15 mins into a dive at a depth of 35m when
+the regulator of one of the pair began to free flow.  They made
+a faster than normal ascent to the surface.  No subsequent ill
+effects were reported.
+February 2000 00/056
+3 mins into a shore dive to a depth of 30m a diver's regulator
+began to free flow.  His buddy tried to stop the free flow but
+failed.  The diver spat out the free flowing regulator.  The buddy
+took hold of the other diver's BCD at which point he started to
+panic.  The buddy offered his own regulator but this was spat
+out and the troubled diver struggled to get to the surface.  The
+buddy stopped him and offered his alternative air source but it
+was refused.  The pair struggled and fell to the bottom with the
+buddy on top of the distressed diver.  Again the alternative air
+source was offered but rejected.  The buddy then released the
+other's weightbelt.  A diver from another pair in the same group
+came to their assistance and lifted the distressed diver to the
+surface.  The buddy was joined by the buddy from the second
+pair and, after a few minutes, they made a normal ascent.   At
+the surface the alarm was raised and the distressed diver, who
+was now unconscious, was recovered from the water.  Oxygen
+was administered and an ambulance was called.  The diver
+was able to talk by the time he was taken to hospital.
+March 2000 00/080
+An instructor and three trainees were diving to a depth of 31m.
+4 mins into the dive, one of the trainees' regulators began to
+free flow.  This diver swam to the instructor to take his octopus
+regulator.  At this point all of the divers' regulators began to free
+flow.  The divers made a rapid ascent to the surface.  No
+subsequent ill effects were reported.
+March 2000 00/082
+At the beginning of a dive, at a depth of 36m a diver's regulator
+went into free flow.  The dive was aborted and a fast ascent
+was made.  No subsequent ill effects were experienced.
+March 2000 00/083
+Two divers made a surface swim for 50m then dived to a depth
+of 20m.  At the bottom, the regulator of one of the divers began
+to free flow.  They made a slightly rapid ascent to the surface.
+No subsequent ill effects were reported.
+April 2000 00/098
+Three divers conducted a wreck dive to a depth of 36m.  9 mins
+into the dive, the regulator of one of the group started to free
+flow.  This diver shared air with one of his buddies.  He was not
+able to stop the free flow and the air supply from this cylinder
+was rapidly lost.  Rather than attempting to find the shotline,
+the divers deployed a delayed SMB, using the free flowing
+regulator, and made a normal ascent.  They swapped the air
+sharing donor in order to maintain an even spread of the
+remaining air supply.  Later it was found that the regulator had
+a small knob on the front of the second stage that was set
+away from the 'Dive' position.  The divers were unclear as to
+the function or purpose of this knob.
+May 2000 00/131
+A diver experienced air supply problems whilst underwater and
+became unconscious.  He sank to a depth of 18m from where
+his buddy was able to bring him back to the surface.  He was
+given expired air resuscitation once back in the boat.  He was
+flown by helicopter to hospital, where he made a recovery.
+(Newspaper report only)
+May 2000 00/125
+
+NDC Diving Incidents Report -2000
+34 ©BS-AC - 2000
+A diver experienced problems with his weightbelt and air supply
+during a dive.  He was unconscious at the surface.  The
+Coastguard was alerted and he was airlifted to hospital.
+Resuscitation techniques were used in the helicopter.  A full
+recovery was anticipated.  (Newspaper report only)
+July 2000 00/199
+Three divers conducted a dive to 18m using rebreathers.  One
+of the group commenced the dive with a headache and was
+apprehensive.  Several minutes into the dive he decided to
+abort the dive and signaled to his buddies that he was going to
+ascend.  He made his way back to the shotline and started his
+ascent.  He attempted to change from semi-closed operation to
+open circuit on the ascent.  At the surface this diver swam to
+the boat and then lost the ability to respond or communicate.
+People in the boat recovered the semiconscious diver and
+placed him on oxygen.  He quickly recovered.  It was
+subsequently discovered that the C02 absorbent had been
+used previously and was exhausted.
+July 2000 00/215
+Two divers were conducting a dive on a boulder slope at a
+depth of 17m.  One of the pair was too heavy and the dive
+leader indicated to him to put air into his BCD.  This he did and
+air was seen coming out of the overpressure valve.  The divers
+were then at 21m and the diver who was heavy lost a fin, he
+panicked and his mask half flooded.  The dive leader took hold
+of him and tried to lift him with a controlled buoyant lift but there
+was a problem with the BCD.  The dive leader therefore lifted
+the heavy diver using his own BCD, during the ascent he lost
+the other fin.  At the surface the dive leader towed the troubled
+diver to the shore.  He was shaken but unharmed.  His BCD
+was found to be full of water.
+
+NDC Diving Incidents Report - 2000  
+ã BSAC - 2000 35
+Miscellaneous
+March 2000 00/276
+A known drug addict decided to go shore diving, for the first time
+ever, alone. A member of the public found him lying on the
+beach suffering from hypothermia. Diving was attempted due to
+his drug induced state. He was taken into Police custody.
+(Coastguard & RNLI report)
+April 2000 00/283
+A dive boat with 4 POB was reported overdue. Enquiries
+revealed that they were OK but had missed their ferry back.
+(Coastguard report).
+April 2000 00/293
+A major search was initiated following a report of a missing dive
+boat. It was found safe at harbour.  (Coastguard & RNLI report)
+April 2000 00/298
+A 999 call was received reporting a dive RHIB overdue. A
+communications search was started but the RHIB returned safe
+and well.  (Coastguard report).
+April 2000 00/428
+Lifeboat launched to assist divers, others coped.  (RNLI report)
+May 2000 00/312
+A shore diver, following his compass, became disorientated and
+surfaced a long way seaward. He shouted and blew his whistle
+to attract attention. A local vessel brought the casualty ashore.
+(Coastguard report).
+May 2000 00/435
+Lifeboat launched to assist dive boat.  False alarm.  (RNLI
+report)
+June 2000 00/445
+Two lifeboats launched to assist dive boat.  False alarm.  (RNLI
+report)
+July 2000 00/203
+Twp pairs of divers were preparing to dive from a floating
+pontoon.  One diver was standing on one leg fitting her fin,
+supporting her self by holding on to an upright on the pontoon.
+Another diver entered the water and the motion of the pontoon
+caused the diver fitting her fin to fall into the water.  She hit her
+arm as she fell and smashed her dive watch.
+July 2000 00/369
+Two divers reported banging noises coming from the hull of a
+wreck. Possible trapped persons were reported. SAR units were
+dispatched to the scene, but all divers in the charter party were
+accounted for. A false alarm with good intent, classed as 'other'.
+(Coastguard & RNLI report)
+August 2000 00/388
+Coastguards commenced to search for a diving party that had
+been reported overdue. It later transpired that the divers had
+forgotten to report back and had gone home. Classed as 'other'.
+(Coastguard report).
+
+NDC Diving Incidents Report -2000
+36 ©BS-AC - 2000
+Overseas Incidents
+Fatalities
+June 2000 00/151
+An instructor was taking two trainees on a 'try dive'.  They
+entered the water from a beach and swam a short distance
+underwater.  One of the trainees was finning a bit too strongly
+and the instructor held him back.  The second trainee had a
+buoyancy problem and whilst the instructor was resolving this
+the first trainee swam ahead about 5m.  The instructor then
+noticed the first trainee sitting on the bottom, unconscious, with
+his regulator out of his mouth.  The instructor brought both of
+the trainees to the surface.  He gave the first trainee AV and
+towed him 3 to 4m to the beach.  The casualty was given AV
+and CPR and two doctors, who had been nearby, came to help.
+The emergency services were summoned but the casualty
+failed to recover.  It is believed that the casualty suffered a
+heart attack.
+Decompression
+November 1999 00/038
+A diver completed a dive to 20m for 48 mins with the last 14
+mins spent at 8m.  2 hours later she dived again to 19m for 40
+mins with the last 12 mins spent between 6 and 8m.  During
+these dives she had to swim against a water current.  The
+following day, 18 hours later, she experienced a numbness in
+her left arm and leg.  She sought medical advice, was placed
+on oxygen and then received a series of hyperbaric treatments.
+She was advised to delay her return flight home.  On her return
+she required further medical attention.
+January 2000 00/065
+Two divers were 7 mins into a dive to a maximum depth of 28m
+when they resurfaced.  One of the pair was in distress,
+coughing and choking.  She had been brought to the surface by
+her buddy using a controlled buoyant lift.  Her buddy and
+another diver towed her 15m to their boat and she was
+recovered into the boat.  She was placed on oxygen.  The
+casualty was taken ashore and given hot fluids.  Still on oxygen
+she was taken, in the recovery position, to a medical facility.
+She was cold, clammy and uncommunicative.  90 mins after
+surfacing the casualty complained of pains in her knees,
+elbows and shoulders, and a headache.  5 mins later she lost
+consciousness.  After a further 5 mins she regained
+consciousness and complained of sharp pains in all joints.  3
+hours after surfacing the diver was recompressed for 4 hours
+45 mins.  Concerns with a fin and a mask were implicated in
+the initial problem.
+March 2000 00/093
+A diver conducted a series of four dives over a period of 24
+hours, the last of which was a night dive.  That night she
+noticed a pink rash on her stomach and some soreness.  She
+did not sleep well that night and felt tired and sore in the
+morning.  She then conducted three dives.  She felt better after
+the first dive.  1 hour after surfacing from the last dive she felt
+'bruised and battered' and noticed that the pink rash had
+become darker.  She started to feel very unwell and was placed
+on oxygen.  She was taken to a recompression facility and
+received five recompression treatments.  Her symptoms were
+resolved.
+March 2000 00/123
+Two divers were conducting a dive at a depth of 20m.  20 mins
+into the dive the pair were approached by two large sea lions.
+The sea lions swam around them for a while, then one of them
+grabbed the left fin of one of the divers dragging him backwards
+and upwards.  The diver made an uncontrolled, inverted ascent
+to the surface.  At the surface he gave the distress signal and
+was recovered into the boat.  His buddy made a normal ascent.
+Some time later the diver who had made the uncontrolled
+ascent experienced a tingling sensation behind his left knee
+which continued for more than 1 hour.  He was kept under
+medical observation, released the following morning and
+advised not to dive for at least 4 weeks.
+April 2000 00/182
+Two divers completed a 17 hour flight followed by a further 1
+hour 30 mins flight in an unpressurized aircraft.  2 hours later
+they undertook a dive during which one of the pair went to 32m.
+During the ascent she became too light at 10m and rose to the
+surface.  She obtained extra weight and dived again to
+complete 5 mins of decompression.  She then ran out of air
+and surfaced.  The total dive duration had been 30 mins.  On
+surfacing this diver was extremely breathless, had a cough, a
+tight chest and was shocked.  3 hours later she had recovered.
+During the night she experienced severe pain under the finger
+nails of her right hand.  The index finger and the little finger
+then became blue and cyanotic for about 24 hours.
+May 2000 00/095
+Two divers conducted a dive to a maximum depth of 42m for a
+total duration of 45 mins.  At 5m one of their computers
+indicated a 3 mins stop and the other an 8 mins stop.  They
+conducted a 10 mins stop and then made a normal ascent.
+Some hours later one of the pair showed signs of DCI and
+received recompression treatment.  The other diver showed no
+symptoms.
+May 2000 00/175
+A diver conducted a shore dive to a maximum depth of 19m.
+During the ascent 5 mins was spent at 9m.  At 6m he began to
+feel anxious and short of breath.  He had to swim hard, against
+a current, in 3m depth to get back to the shore.  Once ashore
+he was very confused and unstable.  His right arm was 'flaccid'.
+He was given oxygen and taken back to his hotel.  His
+condition improved.  The hotel doctor diagnosed a 'transient
+ischemic attack' due to de-hydration.  6 hours later this diver
+experienced partial paralysis of his left leg and suffered from
+urine retention.  He was placed on oxygen and taken to a
+recompression facility for treatment.  He received 6 sessions of
+recompression treatment.  He then flew back to the UK and
+received further recompression treatment.  A CT scan revealed
+small cysts on his lungs that were not visible on a conventional
+x-ray.  A gradual, continuing recovery was reported.
+May 2000 00/186
+Two divers completed a dive to a maximum depth of 28m.
+During the ascent, at 15m, the drysuit dump valve of one of the
+pair stuck and he made rapid ascent to the surface, missing 2
+
+NDC Diving Incidents Report - 2000  
+ã BSAC - 2000 37
+mins of decompression stops.  His buddy made a normal
+ascent including stops.  The diver who had made the rapid
+ascent had no symptoms but was placed on oxygen.  The party
+returned to shore.  Later the diver developed symptoms of DCI
+and he was given recompression treatment.  A full recovery
+was reported.  This diver had been using a new drysuit.
+May 2000 00/143
+A diver undertook a dive to 18m for 25 mins, 7 hours 15 mins
+after an aircraft flight.  Later that day he dived again to 16m.
+Some time after this dive he complained of a pain in his arm,
+he was recompressed and the pain was eased.  The following
+day the diver reported further pain and was recompressed
+again.  DCI was not confirmed.  The diver was reported to have
+been 'hung over', 'not dive fit' and highly apprehensive prior to
+the dives.
+July 2000 00/208
+On vacation a diver completed a series of 6 dives over a 4 day
+period.  These dives were between 10 and 30m, all were no
+stop dives and all included a 5 min safety stop.  This diver was
+using a dive computer.  He had a one day break and completed
+two further dives.  The next day he dived again to 24m for a
+total of 46 mins which included a 5 min safety stop.  Leaving
+the water he climbed a ladder back onto the boat and noticed a
+pain in his left bicep.  During the second dive that day the pain
+reduced, he was concerned that this might be a symptom of
+DCI and terminated the dive.  After the dive the pain did not
+return.  Later that evening the pain returned and moved into his
+left elbow.  The diver sought medical advice and received
+recompression treatment.  During the treatment some pain
+relief was experienced but it returned when he was brought
+back to atmospheric pressure.  He received four further
+treatments over the following 3 days.  72 hours after the last
+treatment he flew home without incident.  Some pain remained
+and he was seeking further medical treatment.
+August 2000 00/224
+A diver conducted a dive to 21m for 36 mins including a 3 min
+stop at 6m.  3 hours 36 mins later she dived again to 20m.
+During this dive she experienced severe cramp in her right leg
+and lay on the seabed.  Her buddy decided to abort the dive,
+and, as she was unable to use her leg, used a controlled
+buoyant lift to get her to the surface.  The final 3m was quite
+fast and their computers registered an ascent rate alarm.  Back
+in the boat the cramp was still present and the diver reported
+'pins and needles' in the fingertips of her left hand and a
+headache.  The diver was placed on oxygen and assistance
+was requested by radio.  'Pins and needles' were also
+experienced in the right hand.  The diver was taken to a
+recompression facility.  1 hour after surfacing the symptoms
+were improving and she was not recompressed.  A further hour
+later the symptoms had resolved.  She remained in hospital
+under observation for a day before being released.  The buddy
+showed no symptoms.
+Injury/Illness
+December 1999 00/047
+A diver's equipment was being lifted out of the water into a
+RHIB.  The RHIB rolled in a swell causing the crew member
+who was lifting the equipment to slip.  The equipment fell back
+into the water, hitting the diver on the head.  The diver was
+recovered into the boat, where she complained of blurred vision
+and a severe headache.  Assistance was summoned by radio
+and the boat returned to shore.  The casualty was airlifted to
+hospital.  She was released the following day having made a
+full recovery.
+March 2000 00/119
+A diver completed a dive to 13m for a duration of 33 mins,
+including a 2 min stop at 6m.  3 hours 30 mins later he dived
+again to 13m for 27 mins.  At the surface he had to swim 60m
+to the boat.  During this swim the diver developed a severe
+headache.  Once in the boat he was placed on oxygen and the
+symptoms eased after 5 mins.  He was given fluids and taken
+back to the shore.  The diver was given a medical examination.
+Dehydration was suspected and he was given a painkiller,
+fluids and further oxygen.  The symptoms eased and the
+casualty was kept under observation for 24 hours.  This took
+place in hot climate conditions.
+April 2000 00/142
+After a dive a diver was recovered into an RHIB.  She then fell
+and struck her face on a radio bracket.  The radio was not in
+place as it was being repaired.  The diver's face was cut and
+she was taken ashore in another boat where she received
+medical treatment.
+April 2000 00/121
+A diver was ascending a ladder to the upper deck of a dive
+boat.  Whilst climbing this ladder he struck his head on a
+wooden sign.
+April 2000 00/122
+A diver was ascending a ladder to the upper deck of a dive
+boat.  Whilst climbing this ladder he struck his head on a
+wooden sign, this caused a cut to his forehead.  (Same boat
+but different individual to 00/121)
+April 2000 00/120
+A diver loaded a kit bag, picked it up and began to walk away.
+After two paces he struck his head on the raised tailgate of a
+parked vehicle.  He sustained a cut above his right eye.
+May 2000 00/106
+An instructor and a trainee entered the water from a beach.
+They dived and moved into deeper water.  Both divers had
+trouble clearing their ears.  Visibility was poor and at 8m they
+encountered a current which was carrying them along the
+shore.  They swam back up the slope into chest deep water.
+They waded back to their entry point and dived again.  Again
+they had problems with their ears and at 6m the instructor
+became disorientated and dizzy.  They ascended directly to the
+surface.  At the surface the instructor was in distress and the
+trainee shouted for assistance and started to tow him ashore.
+Other divers entered the water to assist them ashore.  Once
+ashore the distressed diver was given oxygen and taken to
+hospital.  A medical examination failed to reveal any problems.
+August 2000 00/225
+A diver conducted a dive to 32m for 31 mins with a 3 min stop
+at 6m.  5 hours 47 mins later he dived again to 23m for 34 mins
+with an 8 mins stop at 6m.  The decompression stop for the
+first dive was completed with the diver hanging on to the boat's
+anchor line with his left hand.  The conditions were rough and
+the anchor line was jerked up and down.  1 hours 52 mins after
+the last dive he reported a headache and, 30 mins later, a
+
+NDC Diving Incidents Report -2000
+38 ©BS-AC - 2000
+tingling in the back of his left hand.  He was given oxygen.  20
+mins later the symptoms had resolved and oxygen was
+discontinued.  30 mins later he experienced tingling in the left
+hand side of his face and oxygen was restarted.  33 mins later
+the symptoms were improved and oxygen was discontinued.
+The diver reported a numbness in his lower left arm and an
+elbow joint ache.  This was believed to be a muscular problem.
+5 days later the diver was concerned that he had a DCI and
+detailed medical tests were conducted and inflamed joints were
+diagnosed.  Treatment was prescribed and the diver recovered.
+August 2000 00/239
+A diver descended to a depth of 7m.  Her contents gauge was
+seen to be fluctuating and the dive leader took her to the
+surface.  Whilst ascending she felt pain in her ears 'even after
+equalizing'.  At the surface she still had pain and the dive was
+aborted.  Medical examination revealed bleeding in one ear and
+a perforation in the other.  She was given
+Boating / Surface Incidents
+June 2000 00/129
+The engine compartment of a dive boat became swamped and
+the engine could not be started.  The boat was being blown
+towards a rocky shore and the anchor was deployed.
+Assistance was sought by radio.  The anchor was dragging and
+no response was received to the radio call.  The radio call was
+escalated through 'Pan Pan' to 'Mayday'.  A local boat picked
+up the 'Mayday' call and came to assist.  The disabled boat
+was taken in tow and returned to harbour.
+Ascents
+May 2000 00/174
+Three divers were conducting a dive on an underwater rock
+face at a maximum depth of 33m.  They ascended the cliff but
+at a depth of 15m one of the three was unable to control his
+buoyancy.  He was able to release air from his BCD but was
+not able to make his drysuit dump valve operate.  He was
+carried to the surface, missing a 1 min stop at 6m.  Subsequent
+examination revealed a design fault that allowed the valve to
+become jammed shut.  No subsequent ill effects were reported
+August 2000 00/223
+A diver was conducting a dive to a maximum depth of 28m.
+Half way through the dive, at a depth of 15m, she was unable
+to dump air from her drysuit cuff dump and rose quickly to 10m.
+She managed to swim back down to 15m and stabilize her
+buoyancy.  Her buddy deployed a delayed SMB.  The buoyant
+diver started to rise again and held onto her buddy's manifold.
+At 5m she let go of her buddy and rose directly to the surface.
+Her computer indicated 17 mins of missed decompression
+stops.  Back in the boat she was placed on oxygen.  Although
+she showed no symptoms of DCI she received a 1 hour
+recompression treatment.  It was subsequently discovered that
+her inner suit had blocked the dump valve.
+Technique
+October 1999 00/021
+Two divers descended to a depth of 40m, they exchanged OK
+signals during the descent.  At 40m one of the pair signaled
+that she was 'not OK' and that she wanted to ascend.  She
+became agitated and started to panic.  She was breathing very
+hard.  Her buddy took hold of her BCD in order to calm her
+down, but she responded with frantic signals and began to fin
+towards the surface.  Her buddy attempted to control the
+ascent rate.   At the surface the buddy gave the distress signal
+and they awaited recovery by their boat.  The distressed diver
+lay back in the water and was able to regain control.  Total dive
+duration 6 mins.  No subsequent ill effects were experienced.
+January 2000 00/064
+A pair of divers conducted a dive to 15m.  After 11 mins they
+surfaced and gave the distress signal to their boat.  They were
+recovered into the boat and placed on oxygen - 5 mins on and
+5 mins off, twice.  The divers were taken ashore and were
+given a medical examination.  No symptoms were found and
+the divers were advised not to dive for five days.
+April 2000 00/185
+An instructor was conducting mask clearing drills with two
+trainees in a depth of 7m.  One of the trainees breathed out too
+hard and water was forced up her nose.  This caused her to
+panic.  The instructor took hold of the trainee who was
+struggling to surface.  The trainee was unable to break free and
+inflated her BCD.  In her struggles she knocked the regulator
+from the instructor's mouth.  The instructor was unable to find
+his regulator and concentrated on controlling the ascent.  Once
+at the surface he ensured that the distressed trainee was
+alright and then dived again to bring the second trainee to the
+surface.  No subsequent ill effects were reported.
+June 2000 00/192
+Two divers began a dive.  At 7m one of the pair experienced
+problems with his regulator and returned to the surface to fix it.
+He dived again and they descended to a maximum depth of
+37m.  18 mins into the dive they started their ascent.  The
+contents gauge of one of the pair showed 70 bar.  They made a
+slow ascent, dropping back 4m at one point.  At 16m they
+deployed a delayed SMB which had to be untangled.  They
+stopped at 12m for 1 min and the diver who had had 70 bar at
+the start of the ascent developed cramp.  At 9m he had
+between 0 and 10 bar remaining in his air cylinder.  He took
+what he thought was his buddy's octopus regulator and started
+to breathe from this.  It was, however, his pony cylinder and it
+was quickly emptied.  He fumbled for the buddy's octopus
+regulator.  He then took the main regulator from his buddy's
+mouth and the buddy switched to his octopus regulator.  They
+slowly drifted to the surface.  The buddy re-descended to finish
+his decompression stops.  The diver at the surface orally
+inflated his BCD but struggled with cramp and from being
+tipped forwards onto his face.  His buddy finally surfaced and
+towed him to the boat.  Back on the boat he breathed oxygen
+as a precaution.  It was subsequently discovered that the
+contents gauge of the diver who had run out of air stuck at 70
+bar.
+Equipment
+
+NDC Diving Incidents Report - 2000  
+ã BSAC - 2000 39
+October 1999 00/029
+3 mins into a dive, at a depth of 12 m, the mouth piece came
+off of a diver's regulator.  She attempted to breath from the
+regulator without the mouthpiece but was not able to.  She
+grabbed her buddy's octopus regulator and they made a safe
+ascent to the surface.  The fastening tie of the mouthpiece was
+later found to have been missing.
+October 1999 00/030
+A group of divers descended to a wreck at 30m.  3 mins into
+the dive the pillar valve 'O' ring of one of the group blew out.
+She reached for the octopus regulator of another diver but the
+mouthpiece became disconnected due to no securing tie being
+present.  This diver then swam to another member of the party
+and used their octopus regulator.  They all made a safe ascent
+to the surface.
+November 1999 00/032
+An instructor and two trainees dived to 27m in a quarry.  At this
+point the regulator of one of the trainees began to free flow.
+The instructor passed the trainee his octopus regulator and
+they all made a controlled ascent.  At 10m the free flowing
+regulator was turned off and then on again and it ceased to free
+flow.  They reached the surface safely and no subsequent ill
+effects were reported.  The water temperature was recorded as
+6 deg C.
+April 2000 00/136
+A diver dived to 25m for 49 mins.  3 hours 45 mins later she
+dived again to 25m for 38 mins.  After a further 3 hours 24 mins
+she began a third dive.  A few minutes into this dive, at a depth
+of 22m, her regulator failed to supply air and she made an
+ascent to the surface sharing air with her buddy.
+May 2000 00/161
+Two divers were conducting a dive at a depth of 22m when the
+regulator of one of the pair became detached from its
+mouthpiece.  The diver attracted his buddy's attention and was
+given an alternative air source.  The buddy reattached the
+mouthpiece and they continued the dive.  The diver was using
+a borrowed regulator since he had experienced problems with
+his own just prior to the dive.  The tie securing the mouthpiece
+was missing but it was not certain if this had happened during
+the dive.
+
+NDC Diving Incidents Report -2000
+40 ©BS-AC - 2000
+INCIDENT REPORTS
+If you would like to add to, correct or place a different interpretation upon any of the incidents in this report please put your
+comments in writing and send them to the following address:
+The Incidents Advisor,
+The British Sub-Aqua Club,
+Telford's Quay,
+Ellesmere Port,
+South Wirral,
+Cheshire,
+CH65 4FL.
+For new incidents please complete a BSAC incident report form and send it to BSAC HQ at the address shown above.
+All  personal details are treated as confidential.
+Incident Report Forms can be obtained free of charge by phoning BSAC HQ on 0151  350 6200
+or from the BSAC Internet website.
+Numerical & Statistical Analyses
+Statistical Summary of Incidents
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+Incidents Reported 199 123 263 385 351 315 397 452 397 439
+Incidents Analysed 199 123 263 385 351 315 370 431 382 417
+UK Incidents 170 98 236 322 318 295 349 404 357 384
+Overseas Incidents 24 14 21 9 33 20 21 27 25 33
+Unknown Locations 5 11 6 54 0 0 0 0 0 1
+BSAC Members 111 110 146 164 157 136 101 135 128 113
+Non-BSAC Members 18 13 19 8 20 4 29 52 47 52
+Membership Unknown 70 0 98 213 178 175 219 217 182 219
+Incident  Report Source Analysis
+Total Reports: 510
+Total Incidents: 417
+Other
+Newspaper
+RNLI
+Coastguard
+Incident Reports
+
+NDC Diving Incidents Report - 2000  
+ã BSAC - 2000 41
+History of UK Diving Fatalities
+Number of Fatalities
+Year Membership BSAC Non-BSAC
+1965 6,813 3 -
+1966 7,979 1 4
+1967 8,350 1 6
+1968 9,241 2 1
+1969 11,299 2 8
+1970 13,721 4 4
+1971 14,898 0 4
+1972 17,041 10 31
+1973 19,332 9 20
+1974 22,150 3 11
+1975 23,204 2 -
+1976 25,310 4 -
+1977 25,342 3 -
+1978 27,510 8 4
+1979 30,579 5 8
+1980 24,900 6 7
+1981 27,834 5 7
+1982 29,590 6 3
+1983 32,177 7 2
+1984 32,950 8 5
+1985 34,861 8 6
+1986 34,210 6 9
+1987 34,500 6 2
+1988 32,960 10 6
+1989 34,422 4 8
+1990 36,434 3 6
+1991 43,475 8 9
+1992 45,626 9 8
+1993 50,722 3 6
+1994 50,505 6 6
+1995 52,364 9 9
+1996 48,920 7 9
+1997 48,412 4 12
+1998 46,712 6 16
+1999 46,682 8 9
+2000 41,692 6 11
+
+NDC Diving Incidents Report -2000
+42 ©BS-AC - 2000
+LIST OF ABBREVIATIONS USED IN THE INCIDENT REPORT
+AV Artificial ventilation
+BCD Buoyancy compensation device (e.g. stab jacket)
+CAGE Cerebral arterial gas embolism
+CG Coastguard
+CPR Cardiopulmonary resuscitation
+DCI Decompression illness
+DDRC Diving Diseases Research Centre (Plymouth, UK)
+ECG Electrocardiogram
+Helo Helicopter
+ILB Inshore lifeboat
+IV Intravenous
+m Metre
+min(s) Minute(s)
+MRSC Marine Rescue Sub Centre
+PFO Patent foramen ovale
+POB Persons on board
+RAF Royal Air Force
+RHIB Rigid hull inflatable boat
+RNLI Royal National Lifeboat Institution
+SAR Search and rescue
+SMB Surface marker buoy
+999 UK Emergency phone number
+
